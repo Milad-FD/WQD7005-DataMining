@@ -1,0 +1,2001 @@
+Customer_ID,Age,Gender,City,Membership_Type,PreferredLoginDevice,Average_Rating,Last_Purchase_Date,Last_Purchase,Satisfaction Level,Product Category,Total Purchase Amount,Churn
+1001,24,Female,Miami,Silver,Computer,4.7,28/12/2023,10,Satisfied,Home,434,0
+1002,27,Female,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Books,3502,0
+1003,49,Male,Los Angeles,Silver,Mobile Phone,4.7,14/12/2023,24,Satisfied,Books,4129,0
+1004,49,Male,New York,Gold,Mobile Phone,3.1,15/12/2023,23,Neutral,Clothing,4423,0
+1005,46,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Clothing,4354,0
+1006,46,Female,Chicago,Bronze,Mobile Phone,3.6,27/11/2023,41,Unsatisfied,Books,1573,0
+1007,37,Female,Los Angeles,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Electronics,3507,0
+1008,55,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,3124,0
+1009,60,Male,Chicago,Bronze,Mobile Phone,4.2,20/12/2023,18,Neutral,Home,1153,0
+1010,60,Male,San Francisco,Gold,Mobile Phone,3.3,21/11/2023,47,Unsatisfied,Clothing,2837,0
+1011,60,Male,Houston,Bronze,Computer,4.1,6/11/2023,62,Unsatisfied,Clothing,2527,0
+1012,60,Male,Los Angeles,Silver,Computer,4.5,11/12/2023,27,Satisfied,Home,1011,0
+1013,60,Male,Miami,Silver,Mobile Phone,4.6,24/12/2023,14,Satisfied,Home,383,0
+1014,66,Male,Houston,Bronze,Mobile Phone,4.6,25/12/2023,13,Satisfied,Electronics,4623,0
+1015,47,Male,San Francisco,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Home,4980,0
+1016,49,Male,Houston,Bronze,Mobile Phone,3.8,30/11/2023,38,Unsatisfied,Electronics,1261,1
+1017,49,Male,New York,Gold,Mobile Phone,3,16/12/2023,22,Neutral,Electronics,4198,1
+1018,28,Male,Chicago,Bronze,Computer,3.5,1/12/2023,37,Unsatisfied,Books,970,0
+1019,33,Female,Los Angeles,Silver,Computer,4.3,26/12/2023,12,Neutral,Clothing,712,1
+1020,33,Female,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,1871,1
+1021,68,Male,Los Angeles,Silver,Computer,4.3,26/12/2023,12,Neutral,Home,2473,0
+1022,68,Male,New York,Gold,Mobile Phone,4.5,11/12/2023,27,Satisfied,Electronics,1087,0
+1023,68,Male,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,516,0
+1024,35,Male,New York,Gold,Mobile Phone,4.5,8/12/2023,30,Satisfied,Home,1645,1
+1025,35,Male,Houston,Bronze,Computer,3.4,14/12/2023,24,Neutral,Electronics,3981,1
+1026,48,Female,Miami,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,3453,0
+1027,19,Female,Houston,Bronze,Computer,4.6,24/12/2023,14,Satisfied,Home,1916,0
+1028,19,Female,New York,Gold,Computer,4.1,6/11/2023,62,Unsatisfied,Electronics,1410,0
+1029,28,Male,Chicago,Bronze,Mobile Phone,4.3,18/12/2023,20,Neutral,Clothing,3986,0
+1030,28,Male,Los Angeles,Silver,Mobile Phone,4.5,3/12/2023,35,Satisfied,Electronics,3604,0
+1031,20,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,2855,0
+1032,59,Male,Houston,Bronze,Computer,3,20/12/2023,18,Neutral,Electronics,5281,0
+1033,43,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Home,4936,0
+1034,53,Female,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Clothing,3766,0
+1035,20,Male,Miami,Silver,Computer,4.8,23/12/2023,15,Satisfied,Home,3839,0
+1036,20,Female,Houston,Bronze,Mobile Phone,4,15/11/2023,53,Unsatisfied,Electronics,975,1
+1037,20,Female,Miami,Silver,Computer,4.8,26/12/2023,12,Satisfied,Books,4242,1
+1038,36,Female,New York,Gold,Computer,4.1,14/11/2023,54,Unsatisfied,Clothing,5064,1
+1039,36,Female,Houston,Bronze,Computer,4.8,25/12/2023,13,Satisfied,Home,897,1
+1040,70,Male,Miami,Silver,Computer,3.7,20/11/2023,48,Unsatisfied,Home,3742,0
+1041,70,Male,San Francisco,Gold,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,1687,0
+1042,66,Male,Houston,Bronze,Mobile Phone,3.1,14/12/2023,24,Neutral,Electronics,4409,1
+1043,63,Female,New York,Gold,Computer,3.1,10/12/2023,28,Neutral,Clothing,2399,0
+1044,63,Female,Los Angeles,Silver,Mobile Phone,4.7,10/12/2023,28,Satisfied,Books,2713,0
+1045,63,Female,Chicago,Bronze,Mobile Phone,4.1,19/12/2023,19,Neutral,Books,460,0
+1046,63,Female,San Francisco,Gold,Mobile Phone,3.3,20/11/2023,48,Unsatisfied,Electronics,435,0
+1047,39,Male,New York,Gold,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Electronics,3178,0
+1048,49,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,537,0
+1049,24,Female,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Electronics,4620,0
+1050,24,Female,New York,Gold,Computer,4.5,18/12/2023,20,Satisfied,Clothing,2082,0
+1051,36,Male,Los Angeles,Silver,Computer,4.2,24/12/2023,14,Satisfied,Electronics,2948,0
+1052,36,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,1174,0
+1053,30,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,5095,0
+1054,56,Female,New York,Gold,Mobile Phone,3.4,14/12/2023,24,Neutral,Clothing,842,1
+1055,56,Female,Chicago,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,2325,1
+1056,56,Female,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Clothing,3887,1
+1057,47,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,4606,0
+1058,47,Female,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Home,768,0
+1059,38,Male,San Francisco,Gold,Mobile Phone,3.6,24/11/2023,44,Unsatisfied,Clothing,5125,0
+1060,38,Male,Miami,Silver,Computer,4.9,26/12/2023,12,Satisfied,Home,5092,0
+1061,67,Female,Los Angeles,Silver,Computer,4.2,22/12/2023,16,Neutral,Electronics,4906,1
+1062,67,Female,New York,Gold,Mobile Phone,4.8,20/12/2023,18,Satisfied,Books,2609,1
+1063,49,Male,San Francisco,Gold,Computer,4.2,17/12/2023,21,Neutral,Books,2113,0
+1064,49,Male,Chicago,Bronze,Computer,4.5,10/12/2023,28,Satisfied,Clothing,3964,0
+1065,49,Male,Miami,Silver,Mobile Phone,3.3,19/11/2023,49,Unsatisfied,Electronics,1140,0
+1066,65,Male,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,4169,0
+1067,59,Male,Los Angeles,Silver,Computer,4.3,25/12/2023,13,Neutral,Clothing,2440,0
+1068,59,Male,New York,Gold,Mobile Phone,4.5,11/12/2023,27,Satisfied,Books,3943,0
+1069,59,Female,San Francisco,Gold,Mobile Phone,4.8,27/12/2023,11,Satisfied,Home,2987,1
+1070,58,Female,Chicago,Bronze,Mobile Phone,4.3,18/12/2023,20,Neutral,Books,3796,1
+1071,68,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,2793,0
+1072,28,Male,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,352,0
+1073,28,Male,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Electronics,665,0
+1074,68,Male,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Home,1885,1
+1075,68,Male,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,3517,1
+1076,51,Male,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Books,1724,0
+1077,40,Male,Los Angeles,Silver,Mobile Phone,3.2,14/12/2023,24,Neutral,Home,3264,0
+1078,40,Male,Chicago,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,3140,0
+1079,58,Female,San Francisco,Gold,Mobile Phone,4.6,26/12/2023,12,Satisfied,Clothing,1314,0
+1080,69,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,2948,0
+1081,31,Male,San Francisco,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,2481,1
+1082,31,Male,Houston,Bronze,Mobile Phone,4.6,11/12/2023,27,Satisfied,Clothing,1820,1
+1083,31,Male,Miami,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Books,2198,1
+1084,39,Male,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,3095,1
+1085,39,Male,Houston,Bronze,Computer,3.2,14/12/2023,24,Neutral,Books,3505,1
+1086,46,Female,Chicago,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Home,3969,0
+1087,46,Female,San Francisco,Gold,Mobile Phone,4,23/12/2023,15,Neutral,Clothing,699,0
+1088,62,Female,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Books,3596,0
+1089,62,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,511,0
+1090,43,Female,Miami,Silver,Mobile Phone,3.8,29/11/2023,39,Unsatisfied,Home,4899,0
+1091,40,Male,Chicago,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,2219,1
+1092,40,Male,San Francisco,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Home,2852,1
+1093,40,Male,Miami,Silver,Computer,4.4,16/12/2023,22,Satisfied,Books,3271,1
+1094,40,Male,Houston,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,3941,1
+1095,40,Male,New York,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Books,1059,1
+1096,40,Male,Los Angeles,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,3464,1
+1097,50,Male,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Electronics,1632,0
+1098,28,Male,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,2847,0
+1099,28,Male,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,837,0
+1100,56,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Electronics,4245,0
+1101,56,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,1784,0
+1102,39,Male,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Clothing,969,1
+1103,45,Female,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Electronics,953,0
+1104,59,Female,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Books,4838,1
+1105,33,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,3168,0
+1106,52,Female,Los Angeles,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Home,5071,0
+1107,52,Female,Chicago,Bronze,Computer,4.7,19/12/2023,19,Satisfied,Electronics,1522,0
+1108,57,Female,Los Angeles,Silver,Mobile Phone,3.1,10/12/2023,28,Neutral,Clothing,4521,0
+1109,20,Female,New York,Gold,Computer,4.5,9/12/2023,29,Satisfied,Clothing,3310,1
+1110,22,Male,Houston,Bronze,Computer,4.7,19/12/2023,19,Satisfied,Home,1952,1
+1111,22,Male,New York,Gold,Mobile Phone,4,23/12/2023,15,Neutral,Books,1891,1
+1112,60,Female,Los Angeles,Silver,Computer,4.8,25/12/2023,13,Satisfied,Books,3131,0
+1113,60,Female,New York,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,1014,0
+1114,60,Female,Houston,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Home,736,0
+1115,48,Male,Miami,Silver,Mobile Phone,3.8,3/12/2023,35,Unsatisfied,Home,1089,0
+1116,23,Female,New York,Gold,Mobile Phone,3.2,13/12/2023,25,Neutral,Home,4675,1
+1117,22,Female,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,458,0
+1118,59,Male,Chicago,Bronze,Mobile Phone,3.5,3/12/2023,35,Unsatisfied,Books,3619,0
+1119,59,Male,Los Angeles,Silver,Computer,4.2,22/12/2023,16,Neutral,Electronics,1649,0
+1120,51,Female,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Books,5143,0
+1121,51,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Electronics,344,0
+1122,51,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Home,4150,0
+1123,51,Female,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,2264,0
+1124,51,Female,Houston,Bronze,Computer,3.2,14/12/2023,24,Neutral,Books,4017,0
+1125,35,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,3999,0
+1126,35,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,3655,0
+1127,28,Female,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,3648,1
+1128,53,Male,Chicago,Bronze,Mobile Phone,4.2,20/12/2023,18,Neutral,Home,283,0
+1129,53,Male,San Francisco,Gold,Mobile Phone,3.3,25/11/2023,43,Unsatisfied,Electronics,2786,0
+1130,51,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Electronics,2183,1
+1131,29,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,1884,0
+1132,29,Female,Chicago,Bronze,Computer,3.5,1/12/2023,37,Unsatisfied,Clothing,2795,0
+1133,47,Female,Houston,Bronze,Mobile Phone,3.8,1/12/2023,37,Unsatisfied,Home,2527,1
+1134,45,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,1137,0
+1135,45,Female,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Books,3000,0
+1136,24,Male,New York,Gold,Mobile Phone,4.7,14/12/2023,24,Satisfied,Books,1315,0
+1137,59,Female,Houston,Bronze,Computer,3.9,21/11/2023,47,Unsatisfied,Books,4620,0
+1138,28,Female,Houston,Bronze,Computer,4.7,9/12/2023,29,Satisfied,Home,1680,0
+1139,24,Female,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Electronics,3129,0
+1140,60,Female,San Francisco,Gold,Computer,4.7,28/12/2023,10,Satisfied,Clothing,4934,0
+1141,29,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,3960,1
+1142,37,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,2276,1
+1143,37,Male,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Electronics,1682,1
+1144,65,Female,Houston,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,1773,1
+1145,65,Female,Miami,Silver,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,2339,1
+1146,32,Female,San Francisco,Gold,Mobile Phone,3.6,27/11/2023,41,Unsatisfied,Electronics,1962,0
+1147,35,Female,Los Angeles,Silver,Mobile Phone,4.5,11/12/2023,27,Satisfied,Electronics,2018,1
+1148,44,Male,Houston,Bronze,Computer,4.1,20/12/2023,18,Neutral,Books,4450,0
+1149,52,Female,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,1043,0
+1150,52,Female,New York,Gold,Mobile Phone,3.2,13/12/2023,25,Neutral,Books,605,1
+1151,44,Male,Houston,Bronze,Computer,3.8,6/12/2023,32,Unsatisfied,Home,4911,0
+1152,70,Female,Los Angeles,Silver,Computer,4.3,25/12/2023,13,Neutral,Home,2207,1
+1153,45,Female,Miami,Silver,Computer,4.7,19/12/2023,19,Satisfied,Clothing,381,0
+1154,48,Female,New York,Gold,Mobile Phone,4.1,20/12/2023,18,Neutral,Home,1931,0
+1155,48,Female,Los Angeles,Silver,Computer,3.4,26/11/2023,42,Unsatisfied,Clothing,2524,0
+1156,34,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,3826,1
+1157,36,Female,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,2504,0
+1158,19,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,4847,0
+1159,19,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,3172,0
+1160,55,Male,New York,Gold,Mobile Phone,4.7,17/12/2023,21,Satisfied,Electronics,4857,0
+1161,55,Male,Houston,Bronze,Mobile Phone,3.1,18/12/2023,20,Neutral,Electronics,4663,0
+1162,40,Female,Miami,Silver,Computer,3.9,22/11/2023,46,Unsatisfied,Home,2234,0
+1163,40,Female,New York,Gold,Mobile Phone,4.5,17/12/2023,21,Satisfied,Electronics,2371,0
+1164,40,Female,Houston,Bronze,Mobile Phone,3.2,13/12/2023,25,Neutral,Electronics,4535,0
+1165,61,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,4406,0
+1166,61,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Clothing,1786,0
+1167,61,Male,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Books,1907,0
+1168,61,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,2245,0
+1169,49,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,3059,0
+1170,57,Female,New York,Gold,Computer,3.4,15/12/2023,23,Unsatisfied,Books,4881,0
+1171,67,Male,New York,Gold,Mobile Phone,3.1,19/12/2023,19,Neutral,Electronics,1191,0
+1172,20,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Electronics,4176,0
+1173,51,Male,Houston,Bronze,Computer,4.1,8/11/2023,60,Unsatisfied,Clothing,4806,0
+1174,59,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Electronics,3069,0
+1175,59,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,1439,0
+1176,34,Male,Houston,Bronze,Mobile Phone,4.7,28/12/2023,10,Satisfied,Clothing,2022,0
+1177,19,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,3719,1
+1178,49,Male,San Francisco,Gold,Computer,3.3,29/11/2023,39,Unsatisfied,Electronics,2276,0
+1179,32,Female,Houston,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,3935,1
+1180,64,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,3190,0
+1181,46,Female,San Francisco,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,1192,0
+1182,70,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,1743,1
+1183,70,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,2199,1
+1184,30,Male,Miami,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,4970,0
+1185,30,Male,Houston,Bronze,Computer,3.8,2/12/2023,36,Unsatisfied,Electronics,1168,0
+1186,18,Male,Houston,Bronze,Mobile Phone,3.8,30/11/2023,38,Unsatisfied,Electronics,3398,0
+1187,22,Female,Chicago,Bronze,Mobile Phone,3.5,30/11/2023,38,Unsatisfied,Home,3253,0
+1188,43,Male,New York,Gold,Computer,3.4,9/12/2023,29,Neutral,Electronics,731,0
+1189,43,Male,Los Angeles,Silver,Mobile Phone,4.5,5/12/2023,33,Satisfied,Books,3168,0
+1190,54,Male,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Home,3956,0
+1191,46,Male,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,4448,0
+1192,46,Male,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,2898,0
+1193,46,Male,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Home,1429,0
+1194,27,Male,New York,Gold,Computer,3.1,19/12/2023,19,Neutral,Clothing,1121,0
+1195,27,Male,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,4526,0
+1196,27,Male,Chicago,Bronze,Computer,4.2,24/12/2023,14,Satisfied,Clothing,2200,0
+1197,60,Male,Houston,Bronze,Mobile Phone,3.3,17/12/2023,21,Neutral,Electronics,507,1
+1198,60,Male,Miami,Silver,Computer,4,18/11/2023,50,Unsatisfied,Home,1017,1
+1199,49,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,399,0
+1200,49,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,2182,0
+1201,56,Male,Houston,Bronze,Computer,3,20/12/2023,18,Neutral,Electronics,1453,0
+1202,48,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Home,4287,0
+1203,48,Male,Miami,Silver,Computer,4.8,26/12/2023,12,Satisfied,Home,4369,1
+1204,62,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,5264,0
+1205,57,Female,San Francisco,Gold,Mobile Phone,3,13/12/2023,25,Neutral,Clothing,1513,0
+1206,60,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,3389,1
+1207,60,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,4755,1
+1208,56,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Clothing,851,0
+1209,68,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Books,3326,0
+1210,56,Male,Los Angeles,Silver,Computer,4.2,22/12/2023,16,Neutral,Books,4705,0
+1211,56,Male,Chicago,Bronze,Mobile Phone,3.5,3/12/2023,35,Unsatisfied,Clothing,690,0
+1212,20,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,2609,0
+1213,64,Female,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,1180,0
+1214,64,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Home,2513,0
+1215,64,Female,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Home,3094,0
+1216,55,Male,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,1947,0
+1217,59,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Clothing,2666,0
+1218,45,Male,New York,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,1119,0
+1219,45,Male,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Electronics,559,0
+1220,19,Female,Miami,Silver,Computer,4.1,7/11/2023,61,Unsatisfied,Books,4070,1
+1221,19,Female,San Francisco,Gold,Computer,4.8,24/12/2023,14,Satisfied,Home,2936,1
+1222,28,Female,Miami,Silver,Mobile Phone,4.9,29/12/2023,9,Satisfied,Home,286,0
+1223,44,Male,Chicago,Bronze,Computer,3.6,30/11/2023,38,Unsatisfied,Clothing,1760,0
+1224,62,Female,San Francisco,Gold,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,5090,0
+1225,58,Female,Los Angeles,Silver,Mobile Phone,4.5,17/12/2023,21,Satisfied,Home,536,0
+1226,34,Female,Los Angeles,Silver,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,2614,0
+1227,22,Female,New York,Gold,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,4024,0
+1228,59,Female,Houston,Bronze,Computer,4.8,25/12/2023,13,Satisfied,Clothing,4435,0
+1229,26,Male,Los Angeles,Silver,Computer,4.5,15/12/2023,23,Satisfied,Books,1923,0
+1230,26,Male,New York,Gold,Mobile Phone,3,16/12/2023,22,Neutral,Electronics,2973,0
+1231,62,Male,Los Angeles,Silver,Mobile Phone,4,22/12/2023,16,Neutral,Home,2330,0
+1232,62,Male,New York,Gold,Mobile Phone,4.7,9/12/2023,29,Satisfied,Clothing,1536,0
+1233,62,Male,Houston,Bronze,Mobile Phone,3,13/12/2023,25,Neutral,Clothing,1150,0
+1234,27,Female,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Books,5070,0
+1235,49,Male,Chicago,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,1025,0
+1236,49,Male,San Francisco,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Home,4059,0
+1237,65,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,4933,0
+1238,25,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,1591,0
+1239,47,Male,Chicago,Bronze,Mobile Phone,4,13/11/2023,55,Unsatisfied,Home,2821,0
+1240,47,Male,New York,Gold,Mobile Phone,3.4,26/11/2023,42,Unsatisfied,Home,4286,0
+1241,47,Male,Los Angeles,Silver,Mobile Phone,4.7,26/12/2023,12,Satisfied,Electronics,1581,0
+1242,58,Female,Houston,Bronze,Computer,4,18/11/2023,50,Unsatisfied,Clothing,5100,0
+1243,58,Female,New York,Gold,Mobile Phone,3.3,17/12/2023,21,Neutral,Home,2246,0
+1244,56,Male,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,3254,0
+1245,56,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Books,4655,0
+1246,32,Male,Houston,Bronze,Computer,3.2,13/12/2023,25,Neutral,Books,3069,0
+1247,47,Male,Chicago,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,4697,0
+1248,47,Male,San Francisco,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,4479,0
+1249,47,Male,New York,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,4752,0
+1250,47,Male,Los Angeles,Silver,Computer,3.6,29/11/2023,39,Unsatisfied,Home,2249,0
+1251,64,Male,San Francisco,Gold,Mobile Phone,3.6,23/11/2023,45,Unsatisfied,Books,3331,0
+1252,19,Female,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,4844,0
+1253,19,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Books,3592,0
+1254,19,Female,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,3694,0
+1255,31,Female,New York,Gold,Mobile Phone,4.1,8/11/2023,60,Unsatisfied,Home,4698,0
+1256,31,Female,Los Angeles,Silver,Mobile Phone,3.4,9/12/2023,29,Neutral,Clothing,3481,0
+1257,31,Female,Chicago,Bronze,Computer,4.5,5/12/2023,33,Satisfied,Clothing,4169,0
+1258,25,Female,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,593,0
+1259,58,Male,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Home,916,0
+1260,58,Male,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,2940,0
+1261,69,Female,New York,Gold,Mobile Phone,4,23/12/2023,15,Neutral,Electronics,4871,1
+1262,65,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,1245,0
+1263,65,Male,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Home,3584,0
+1264,48,Female,Los Angeles,Silver,Mobile Phone,4.5,6/12/2023,32,Satisfied,Books,4958,0
+1265,48,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Books,866,0
+1266,25,Male,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Books,3013,0
+1267,44,Male,Miami,Silver,Mobile Phone,3.3,22/11/2023,46,Unsatisfied,Books,3747,0
+1268,44,Male,Houston,Bronze,Mobile Phone,4.8,24/12/2023,14,Satisfied,Clothing,520,0
+1269,39,Male,San Francisco,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,5003,1
+1270,39,Male,Miami,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Clothing,491,1
+1271,45,Female,Miami,Silver,Mobile Phone,4.1,12/11/2023,56,Unsatisfied,Books,2678,0
+1272,45,Female,Houston,Bronze,Mobile Phone,3.4,12/12/2023,26,Neutral,Clothing,4506,0
+1273,31,Female,New York,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,2954,0
+1274,31,Female,Houston,Bronze,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,3436,0
+1275,54,Female,Miami,Silver,Computer,3.3,21/11/2023,47,Unsatisfied,Books,324,0
+1276,34,Female,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Electronics,588,0
+1277,18,Male,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Home,3451,0
+1278,37,Female,New York,Gold,Computer,4.7,19/12/2023,19,Satisfied,Clothing,2226,0
+1279,37,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Home,2258,0
+1280,35,Male,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,4224,1
+1281,42,Female,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,4595,0
+1282,42,Female,San Francisco,Gold,Computer,3.5,1/12/2023,37,Unsatisfied,Books,2131,0
+1283,42,Female,Miami,Silver,Computer,4.7,28/12/2023,10,Satisfied,Clothing,4789,0
+1284,29,Female,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Home,4620,1
+1285,29,Female,San Francisco,Gold,Computer,3.5,1/12/2023,37,Unsatisfied,Clothing,1818,1
+1286,53,Female,New York,Gold,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Home,1203,0
+1287,63,Female,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,809,0
+1288,27,Male,New York,Gold,Mobile Phone,4.5,6/12/2023,32,Satisfied,Books,3965,0
+1289,27,Male,Houston,Bronze,Mobile Phone,3.4,10/12/2023,28,Neutral,Clothing,2238,0
+1290,43,Male,Houston,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Home,2411,0
+1291,43,Male,Miami,Silver,Computer,3.2,14/12/2023,24,Neutral,Home,3155,0
+1292,52,Female,San Francisco,Gold,Mobile Phone,3.3,26/11/2023,42,Unsatisfied,Electronics,4739,1
+1293,52,Female,Los Angeles,Silver,Mobile Phone,4.1,22/12/2023,16,Neutral,Books,2095,1
+1294,19,Male,Chicago,Bronze,Mobile Phone,4.7,28/12/2023,10,Satisfied,Electronics,4883,0
+1295,19,Male,Miami,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Clothing,711,0
+1296,19,Male,Los Angeles,Silver,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,1674,0
+1297,19,Male,Houston,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Electronics,3811,0
+1298,19,Male,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,2619,0
+1299,67,Female,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Clothing,1278,0
+1300,35,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,4017,0
+1301,35,Female,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Books,5070,0
+1302,66,Female,Chicago,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,5137,0
+1303,43,Male,New York,Gold,Computer,4.7,19/12/2023,19,Satisfied,Clothing,3919,0
+1304,43,Male,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Home,4308,0
+1305,43,Male,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,4417,0
+1306,50,Male,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Clothing,3770,0
+1307,50,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Electronics,1011,0
+1308,45,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,1859,0
+1309,33,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,4391,0
+1310,33,Female,San Francisco,Gold,Mobile Phone,3.3,22/11/2023,46,Unsatisfied,Clothing,1969,0
+1311,33,Female,Los Angeles,Silver,Computer,4.7,13/12/2023,25,Satisfied,Electronics,4299,0
+1312,23,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,293,0
+1313,39,Male,Chicago,Bronze,Computer,3.3,28/11/2023,40,Unsatisfied,Electronics,1735,0
+1314,39,Male,San Francisco,Gold,Computer,4.8,26/12/2023,12,Satisfied,Books,1445,0
+1315,42,Female,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,3288,1
+1316,33,Female,New York,Gold,Mobile Phone,3,16/12/2023,22,Neutral,Clothing,3130,0
+1317,27,Male,San Francisco,Gold,Computer,3.6,20/11/2023,48,Unsatisfied,Electronics,5067,0
+1318,27,Male,Chicago,Bronze,Mobile Phone,4.1,18/12/2023,20,Neutral,Books,3017,0
+1319,54,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,4129,0
+1320,54,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Electronics,4591,0
+1321,55,Female,Miami,Silver,Computer,4.8,25/12/2023,13,Satisfied,Books,4395,0
+1322,30,Male,San Francisco,Gold,Mobile Phone,3.6,25/11/2023,43,Unsatisfied,Books,2161,0
+1323,46,Female,Miami,Silver,Mobile Phone,4.9,26/12/2023,12,Satisfied,Clothing,2444,0
+1324,46,Female,San Francisco,Gold,Mobile Phone,3.6,24/11/2023,44,Unsatisfied,Home,752,0
+1325,67,Female,San Francisco,Gold,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,4351,0
+1326,64,Male,New York,Gold,Computer,4.7,17/12/2023,21,Satisfied,Books,5237,0
+1327,70,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,3089,0
+1328,24,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Books,3092,1
+1329,29,Female,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Books,492,1
+1330,29,Female,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Home,3588,1
+1331,29,Female,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,3282,1
+1332,20,Female,New York,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,1856,1
+1333,44,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Home,1511,0
+1334,19,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,1487,0
+1335,28,Male,San Francisco,Gold,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,689,0
+1336,28,Male,Chicago,Bronze,Computer,4.7,28/12/2023,10,Satisfied,Electronics,3704,0
+1337,18,Male,Houston,Bronze,Mobile Phone,3.8,27/11/2023,41,Unsatisfied,Clothing,193,1
+1338,43,Male,Chicago,Bronze,Mobile Phone,4.2,20/12/2023,18,Neutral,Electronics,3940,0
+1339,43,Male,San Francisco,Gold,Computer,3.3,25/11/2023,43,Unsatisfied,Clothing,4018,0
+1340,38,Female,Houston,Bronze,Mobile Phone,3.2,13/12/2023,25,Neutral,Books,4000,0
+1341,34,Male,Chicago,Bronze,Mobile Phone,3.6,26/11/2023,42,Unsatisfied,Clothing,1928,0
+1342,43,Female,New York,Gold,Computer,3.1,17/12/2023,21,Unsatisfied,Home,1309,0
+1343,60,Male,Houston,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,1762,0
+1344,60,Male,New York,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Electronics,2316,0
+1345,28,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Home,2685,0
+1346,45,Male,Miami,Silver,Computer,4.9,27/12/2023,11,Satisfied,Home,5170,1
+1347,39,Female,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Clothing,4858,0
+1348,65,Female,Miami,Silver,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Home,1468,0
+1349,65,Female,Houston,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,577,0
+1350,65,Female,New York,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,1077,0
+1351,55,Male,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Electronics,1410,0
+1352,55,Male,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,2426,0
+1353,64,Female,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,2354,0
+1354,65,Female,Chicago,Bronze,Computer,4.5,3/12/2023,35,Satisfied,Books,1232,0
+1355,65,Female,Los Angeles,Silver,Computer,3.4,7/12/2023,31,Neutral,Books,713,0
+1356,19,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,3043,0
+1357,19,Female,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Clothing,3903,0
+1358,27,Male,Miami,Silver,Mobile Phone,4.1,12/11/2023,56,Unsatisfied,Home,4156,0
+1359,69,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,4985,0
+1360,26,Male,Chicago,Bronze,Mobile Phone,3.3,24/11/2023,44,Unsatisfied,Electronics,1585,0
+1361,60,Male,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Electronics,5021,0
+1362,62,Male,Chicago,Bronze,Computer,4.7,28/12/2023,10,Satisfied,Books,704,1
+1363,62,Male,Los Angeles,Silver,Computer,3.5,1/12/2023,37,Unsatisfied,Electronics,3591,1
+1364,62,Male,San Francisco,Gold,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,1756,1
+1365,57,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,1863,0
+1366,57,Female,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Clothing,4766,0
+1367,54,Male,Los Angeles,Silver,Computer,3.4,15/12/2023,23,Unsatisfied,Books,2227,0
+1368,31,Male,Los Angeles,Silver,Mobile Phone,4.1,22/12/2023,16,Neutral,Books,2859,0
+1369,19,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,4449,0
+1370,20,Female,San Francisco,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,2030,0
+1371,66,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,1050,0
+1372,35,Female,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Electronics,2238,1
+1373,35,Female,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Books,3909,1
+1374,58,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,4204,0
+1375,58,Female,New York,Gold,Mobile Phone,4.5,11/12/2023,27,Satisfied,Clothing,599,0
+1376,58,Female,Miami,Silver,Computer,4.1,14/11/2023,54,Unsatisfied,Electronics,1617,0
+1377,38,Female,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,4827,0
+1378,49,Male,Miami,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,3773,0
+1379,49,Male,New York,Gold,Computer,4,23/12/2023,15,Neutral,Electronics,1583,0
+1380,49,Male,San Francisco,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,1596,0
+1381,49,Male,Houston,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,3892,0
+1382,29,Male,New York,Gold,Computer,3.1,17/12/2023,21,Neutral,Books,3621,0
+1383,20,Female,New York,Gold,Computer,4.5,18/12/2023,20,Satisfied,Clothing,4654,0
+1384,62,Male,San Francisco,Gold,Mobile Phone,3.5,3/12/2023,35,Unsatisfied,Books,4506,1
+1385,41,Female,New York,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Electronics,4499,0
+1386,31,Female,Los Angeles,Silver,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,2787,0
+1387,47,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,3030,0
+1388,47,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,442,0
+1389,47,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Books,1208,0
+1390,47,Male,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Clothing,4703,0
+1391,67,Female,Houston,Bronze,Mobile Phone,4.1,11/11/2023,57,Unsatisfied,Electronics,1619,0
+1392,66,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,4667,0
+1393,66,Female,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Books,1496,0
+1394,60,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,655,0
+1395,60,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Home,827,0
+1396,64,Female,Chicago,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,4756,1
+1397,64,Female,Los Angeles,Silver,Mobile Phone,3.2,14/12/2023,24,Neutral,Home,3062,1
+1398,23,Female,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Home,1201,0
+1399,66,Female,New York,Gold,Computer,4.4,16/12/2023,22,Satisfied,Home,2085,0
+1400,23,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,579,0
+1401,44,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,1997,0
+1402,44,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Clothing,681,0
+1403,60,Male,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Electronics,346,0
+1404,38,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,4371,1
+1405,38,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,5125,1
+1406,67,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,3660,0
+1407,67,Female,Los Angeles,Silver,Mobile Phone,4.6,11/12/2023,27,Satisfied,Clothing,4405,0
+1408,42,Male,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,511,1
+1409,42,Male,Miami,Silver,Computer,4.7,28/12/2023,10,Satisfied,Electronics,4602,1
+1410,18,Male,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,3569,0
+1411,18,Male,Houston,Bronze,Computer,3.2,14/12/2023,24,Neutral,Electronics,1620,0
+1412,18,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Home,2614,0
+1413,44,Male,Los Angeles,Silver,Mobile Phone,4,24/12/2023,14,Neutral,Home,2233,1
+1414,34,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,2727,0
+1415,34,Male,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Home,2346,0
+1416,23,Female,Los Angeles,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Books,3565,1
+1417,23,Female,New York,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,1505,1
+1418,41,Male,Los Angeles,Silver,Computer,4.3,25/12/2023,13,Neutral,Clothing,3984,0
+1419,64,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,3927,0
+1420,64,Male,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Books,412,0
+1421,64,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Books,967,0
+1422,62,Male,San Francisco,Gold,Computer,3.3,22/11/2023,46,Unsatisfied,Clothing,2907,0
+1423,65,Male,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Clothing,1054,0
+1424,49,Male,New York,Gold,Computer,3.9,21/11/2023,47,Unsatisfied,Home,397,0
+1425,49,Female,New York,Gold,Mobile Phone,4.5,17/12/2023,21,Satisfied,Clothing,2735,0
+1426,50,Female,Chicago,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,3680,1
+1427,58,Female,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Electronics,2349,0
+1428,48,Female,Los Angeles,Silver,Computer,4.2,24/12/2023,14,Satisfied,Home,2841,0
+1429,64,Male,San Francisco,Gold,Computer,4,13/11/2023,55,Unsatisfied,Electronics,4102,0
+1430,64,Male,Miami,Silver,Mobile Phone,3.1,16/12/2023,22,Neutral,Clothing,2425,0
+1431,64,Male,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Neutral,Books,2924,0
+1432,64,Male,Houston,Bronze,Mobile Phone,4.5,10/12/2023,28,Satisfied,Electronics,3984,0
+1433,19,Male,Los Angeles,Silver,Mobile Phone,3,12/12/2023,26,Neutral,Clothing,775,1
+1434,19,Male,New York,Gold,Mobile Phone,3.8,28/11/2023,40,Unsatisfied,Books,603,1
+1435,21,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,3680,1
+1436,61,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,1384,1
+1437,66,Male,Houston,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,2696,0
+1438,65,Female,Miami,Silver,Mobile Phone,4,18/11/2023,50,Unsatisfied,Clothing,3491,0
+1439,65,Female,Houston,Bronze,Computer,3.3,17/12/2023,21,Neutral,Electronics,1033,0
+1440,63,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,4457,1
+1441,42,Male,Chicago,Bronze,Computer,4.1,22/12/2023,16,Neutral,Home,2812,0
+1442,47,Male,San Francisco,Gold,Computer,3.4,15/12/2023,23,Neutral,Electronics,4397,0
+1443,37,Male,San Francisco,Gold,Computer,4.3,26/12/2023,12,Neutral,Home,867,0
+1444,37,Male,Miami,Silver,Computer,3.6,30/11/2023,38,Unsatisfied,Home,1002,0
+1445,18,Female,San Francisco,Gold,Mobile Phone,4.7,29/12/2023,9,Satisfied,Clothing,1308,0
+1446,62,Female,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Home,406,0
+1447,62,Female,Miami,Silver,Computer,4.9,28/12/2023,10,Satisfied,Clothing,872,0
+1448,59,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,4442,0
+1449,22,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,4346,0
+1450,65,Female,Houston,Bronze,Mobile Phone,3.4,12/12/2023,26,Neutral,Home,1441,0
+1451,65,Female,Miami,Silver,Mobile Phone,4.1,12/11/2023,56,Unsatisfied,Books,1561,0
+1452,65,Female,New York,Gold,Mobile Phone,4.5,9/12/2023,29,Satisfied,Clothing,4713,0
+1453,26,Male,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Home,4197,1
+1454,35,Male,Houston,Bronze,Computer,4.2,24/12/2023,14,Satisfied,Books,521,0
+1455,69,Female,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Electronics,509,0
+1456,69,Female,New York,Gold,Mobile Phone,4.7,16/12/2023,22,Satisfied,Books,1732,0
+1457,62,Female,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Clothing,4872,1
+1458,32,Female,New York,Gold,Mobile Phone,3.4,7/12/2023,31,Neutral,Clothing,2053,0
+1459,32,Female,Los Angeles,Silver,Mobile Phone,4.5,3/12/2023,35,Satisfied,Home,2002,0
+1460,53,Male,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Home,2599,0
+1461,55,Male,Miami,Silver,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,5138,0
+1462,67,Male,New York,Gold,Mobile Phone,3,16/12/2023,22,Neutral,Books,1397,0
+1463,67,Male,Houston,Bronze,Mobile Phone,3.8,2/12/2023,36,Unsatisfied,Home,1671,0
+1464,46,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Books,2659,0
+1465,51,Male,Houston,Bronze,Computer,3.8,2/12/2023,36,Unsatisfied,Home,3853,0
+1466,46,Male,New York,Gold,Mobile Phone,4.5,11/12/2023,27,Satisfied,Books,1885,0
+1467,46,Male,Los Angeles,Silver,Computer,4.2,20/12/2023,18,Neutral,Books,5011,0
+1468,37,Female,Chicago,Bronze,Computer,4.3,22/12/2023,16,Neutral,Clothing,2678,0
+1469,37,Female,San Francisco,Gold,Mobile Phone,3.6,23/11/2023,45,Unsatisfied,Books,247,0
+1470,22,Female,New York,Gold,Computer,4,15/11/2023,53,Unsatisfied,Electronics,3970,0
+1471,19,Female,San Francisco,Gold,Computer,3.1,19/12/2023,19,Neutral,Electronics,1567,0
+1472,19,Female,Chicago,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Clothing,4566,0
+1473,19,Female,Miami,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,4970,0
+1474,59,Male,Los Angeles,Silver,Mobile Phone,4.5,8/12/2023,30,Satisfied,Clothing,3981,0
+1475,43,Female,San Francisco,Gold,Computer,4.3,18/12/2023,20,Neutral,Home,4843,1
+1476,51,Male,New York,Gold,Computer,4.7,9/12/2023,29,Satisfied,Clothing,4477,0
+1477,51,Male,Chicago,Bronze,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Home,1176,0
+1478,51,Male,Los Angeles,Silver,Mobile Phone,4,22/12/2023,16,Neutral,Books,2341,0
+1479,51,Male,Houston,Bronze,Mobile Phone,3,13/12/2023,25,Neutral,Books,3926,0
+1480,41,Male,Chicago,Bronze,Mobile Phone,4.3,24/12/2023,14,Neutral,Books,3173,0
+1481,54,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Books,2963,0
+1482,54,Male,San Francisco,Gold,Computer,4.7,28/12/2023,10,Satisfied,Clothing,2449,0
+1483,54,Male,Los Angeles,Silver,Computer,4.2,24/12/2023,14,Satisfied,Clothing,1340,0
+1484,54,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,4151,0
+1485,69,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Clothing,3964,1
+1486,42,Female,Miami,Silver,Mobile Phone,4.1,5/11/2023,63,Unsatisfied,Home,551,0
+1487,42,Female,Houston,Bronze,Computer,3.4,6/12/2023,32,Neutral,Electronics,803,0
+1488,42,Female,San Francisco,Gold,Mobile Phone,4.8,23/12/2023,15,Satisfied,Electronics,3909,0
+1489,41,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Electronics,4779,1
+1490,41,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Electronics,3778,1
+1491,41,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Electronics,2086,1
+1492,51,Male,Miami,Silver,Mobile Phone,3.7,20/11/2023,48,Unsatisfied,Home,4485,0
+1493,51,Male,San Francisco,Gold,Computer,4.9,27/12/2023,11,Satisfied,Home,1219,0
+1494,28,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,1773,0
+1495,28,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,4358,0
+1496,27,Female,San Francisco,Gold,Mobile Phone,4.7,26/12/2023,12,Satisfied,Books,1486,0
+1497,27,Female,Miami,Silver,Mobile Phone,4,13/11/2023,55,Unsatisfied,Electronics,4327,0
+1498,27,Female,Chicago,Bronze,Mobile Phone,3.4,26/11/2023,42,Unsatisfied,Electronics,2773,0
+1499,25,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,3411,0
+1500,39,Male,San Francisco,Gold,Mobile Phone,3.3,30/11/2023,38,Unsatisfied,Clothing,3437,0
+1501,39,Male,Chicago,Bronze,Mobile Phone,4,24/12/2023,14,Neutral,Books,3231,0
+1502,29,Male,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Electronics,1899,0
+1503,64,Female,San Francisco,Gold,Mobile Phone,4.9,26/12/2023,12,Satisfied,Books,1522,0
+1504,60,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Clothing,1263,0
+1505,60,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,4017,0
+1506,60,Female,Miami,Silver,Computer,4.1,14/11/2023,54,Unsatisfied,Home,3042,0
+1507,43,Female,New York,Gold,Computer,3.1,19/12/2023,19,Neutral,Clothing,3515,1
+1508,43,Female,Houston,Bronze,Computer,3.8,5/12/2023,33,Unsatisfied,Books,687,1
+1509,43,Female,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,4357,1
+1510,19,Female,Houston,Bronze,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,4705,0
+1511,63,Female,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Clothing,2249,0
+1512,53,Female,Miami,Silver,Computer,4.6,27/12/2023,11,Satisfied,Electronics,3592,0
+1513,27,Female,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,2168,1
+1514,27,Female,New York,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Home,2306,1
+1515,21,Female,Miami,Silver,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Clothing,1604,0
+1516,21,Female,San Francisco,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Home,3553,0
+1517,21,Female,Chicago,Bronze,Mobile Phone,4.5,11/12/2023,27,Satisfied,Clothing,855,0
+1518,62,Female,Chicago,Bronze,Mobile Phone,3.6,27/11/2023,41,Unsatisfied,Home,1363,0
+1519,62,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Electronics,5034,0
+1520,53,Female,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Books,1630,1
+1521,41,Male,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,3261,0
+1522,38,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,5045,0
+1523,38,Female,Los Angeles,Silver,Mobile Phone,4.5,11/12/2023,27,Satisfied,Clothing,3483,0
+1524,31,Female,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,1619,0
+1525,39,Female,Miami,Silver,Computer,3.2,18/12/2023,20,Neutral,Books,3522,0
+1526,35,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,800,0
+1527,35,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Clothing,3176,0
+1528,35,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,1080,0
+1529,59,Female,San Francisco,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,2113,0
+1530,38,Male,San Francisco,Gold,Computer,4.1,14/11/2023,54,Unsatisfied,Home,1296,0
+1531,38,Male,Miami,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,5059,0
+1532,38,Male,Chicago,Bronze,Computer,4.8,25/12/2023,13,Satisfied,Books,2506,0
+1533,54,Male,San Francisco,Gold,Computer,4.7,28/12/2023,10,Satisfied,Books,3731,0
+1534,54,Male,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Electronics,2401,0
+1535,54,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,3663,0
+1536,42,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,4358,0
+1537,52,Female,San Francisco,Gold,Mobile Phone,4.2,20/12/2023,18,Neutral,Clothing,1891,0
+1538,52,Female,Chicago,Bronze,Mobile Phone,4.5,11/12/2023,27,Satisfied,Books,4314,0
+1539,70,Male,New York,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,3169,0
+1540,70,Male,Houston,Bronze,Computer,4.6,11/12/2023,27,Satisfied,Books,1252,0
+1541,70,Male,Los Angeles,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,1667,0
+1542,67,Female,Miami,Silver,Computer,3.5,1/12/2023,37,Unsatisfied,Clothing,4298,0
+1543,42,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,4903,1
+1544,44,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,2226,0
+1545,38,Male,Houston,Bronze,Computer,3.8,5/12/2023,33,Unsatisfied,Electronics,2588,0
+1546,38,Male,San Francisco,Gold,Computer,3.6,29/11/2023,39,Unsatisfied,Clothing,1257,0
+1547,38,Male,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,917,0
+1548,40,Male,Los Angeles,Silver,Computer,3,20/12/2023,18,Neutral,Home,4848,0
+1549,70,Male,New York,Gold,Mobile Phone,4.8,20/12/2023,18,Satisfied,Books,1154,0
+1550,70,Male,Houston,Bronze,Mobile Phone,3.3,17/12/2023,21,Neutral,Books,2639,0
+1551,70,Female,Los Angeles,Silver,Mobile Phone,4.5,11/12/2023,27,Satisfied,Books,3171,1
+1552,70,Female,Chicago,Bronze,Mobile Phone,4.2,20/12/2023,18,Neutral,Home,4484,1
+1553,27,Female,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Electronics,4053,1
+1554,45,Male,New York,Gold,Computer,3.4,10/12/2023,28,Neutral,Clothing,329,0
+1555,45,Male,Los Angeles,Silver,Mobile Phone,4.5,6/12/2023,32,Satisfied,Electronics,5059,0
+1556,33,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,2231,1
+1557,43,Female,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Electronics,3304,0
+1558,34,Male,Los Angeles,Silver,Mobile Phone,4.5,10/12/2023,28,Satisfied,Books,1355,1
+1559,36,Female,Los Angeles,Silver,Computer,4.5,12/12/2023,26,Satisfied,Home,3751,1
+1560,36,Female,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,4642,1
+1561,36,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,195,1
+1562,42,Female,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Books,4386,0
+1563,26,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,3208,1
+1564,26,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,1533,1
+1565,70,Female,Miami,Silver,Mobile Phone,4.6,13/12/2023,25,Satisfied,Home,1868,0
+1566,39,Female,San Francisco,Gold,Computer,3.6,22/11/2023,46,Unsatisfied,Clothing,839,0
+1567,39,Female,Chicago,Bronze,Computer,4.1,19/12/2023,19,Neutral,Home,3573,0
+1568,39,Female,Miami,Silver,Mobile Phone,4.9,26/12/2023,12,Satisfied,Books,2834,0
+1569,56,Female,New York,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,1750,0
+1570,24,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,3209,0
+1571,45,Male,Miami,Silver,Computer,3.3,29/11/2023,39,Unsatisfied,Home,4557,0
+1572,21,Male,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,3965,0
+1573,25,Male,Houston,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,2025,0
+1574,29,Male,Chicago,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,4817,0
+1575,59,Male,Miami,Silver,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,2783,0
+1576,65,Male,Houston,Bronze,Mobile Phone,4,18/11/2023,50,Unsatisfied,Home,2836,1
+1577,65,Male,Los Angeles,Silver,Mobile Phone,4.8,20/12/2023,18,Satisfied,Electronics,1541,1
+1578,65,Male,New York,Gold,Mobile Phone,3.3,17/12/2023,21,Neutral,Clothing,571,1
+1579,65,Male,San Francisco,Gold,Computer,3.5,3/12/2023,35,Unsatisfied,Home,4511,1
+1580,65,Male,Chicago,Bronze,Computer,4.2,22/12/2023,16,Neutral,Books,3845,1
+1581,65,Male,Houston,Bronze,Mobile Phone,3.9,22/11/2023,46,Unsatisfied,Books,2706,1
+1582,65,Male,Miami,Silver,Computer,4.7,29/12/2023,9,Satisfied,Home,3809,1
+1583,18,Female,New York,Gold,Computer,3.1,19/12/2023,19,Neutral,Books,5050,0
+1584,18,Female,Houston,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,2996,0
+1585,39,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Unsatisfied,Home,2740,0
+1586,54,Female,Houston,Bronze,Mobile Phone,3.1,18/12/2023,20,Neutral,Clothing,1496,0
+1587,54,Female,New York,Gold,Mobile Phone,4.7,17/12/2023,21,Satisfied,Home,4711,0
+1588,45,Female,New York,Gold,Mobile Phone,4.6,13/12/2023,25,Satisfied,Home,3994,0
+1589,45,Female,Chicago,Bronze,Computer,3.4,26/11/2023,42,Unsatisfied,Clothing,4013,0
+1590,45,Female,Los Angeles,Silver,Mobile Phone,4.1,20/12/2023,18,Neutral,Electronics,788,0
+1591,48,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,589,0
+1592,48,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,1553,0
+1593,48,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,266,0
+1594,24,Female,Chicago,Bronze,Computer,3.5,1/12/2023,37,Unsatisfied,Electronics,3495,0
+1595,24,Female,Los Angeles,Silver,Computer,4.2,24/12/2023,14,Satisfied,Clothing,2977,0
+1596,34,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,1190,0
+1597,34,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Clothing,1445,0
+1598,57,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,1088,0
+1599,57,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Books,2272,0
+1600,38,Male,Houston,Bronze,Mobile Phone,3.3,17/12/2023,21,Neutral,Electronics,4185,0
+1601,69,Female,Chicago,Bronze,Mobile Phone,3.6,21/11/2023,47,Unsatisfied,Clothing,1948,0
+1602,30,Male,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Electronics,1776,0
+1603,27,Male,Chicago,Bronze,Mobile Phone,3.3,30/11/2023,38,Unsatisfied,Books,1743,0
+1604,54,Male,Los Angeles,Silver,Computer,3.6,30/11/2023,38,Unsatisfied,Home,2135,0
+1605,22,Female,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,1276,0
+1606,43,Male,San Francisco,Gold,Computer,4.9,27/12/2023,11,Satisfied,Home,261,0
+1607,43,Male,Miami,Silver,Computer,3.8,27/11/2023,41,Unsatisfied,Clothing,3566,0
+1608,58,Female,Chicago,Bronze,Mobile Phone,3.3,30/11/2023,38,Unsatisfied,Clothing,2259,0
+1609,56,Female,New York,Gold,Computer,3.4,12/12/2023,26,Neutral,Electronics,3265,0
+1610,56,Female,Chicago,Bronze,Computer,4.3,24/12/2023,14,Neutral,Clothing,1772,0
+1611,56,Female,Los Angeles,Silver,Mobile Phone,4.5,9/12/2023,29,Satisfied,Clothing,3659,0
+1612,34,Female,Houston,Bronze,Computer,4.9,29/12/2023,9,Satisfied,Electronics,3018,1
+1613,66,Female,Los Angeles,Silver,Computer,3.1,19/12/2023,19,Neutral,Home,4696,0
+1614,66,Female,New York,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,4135,0
+1615,70,Male,Miami,Silver,Mobile Phone,4.6,25/12/2023,13,Satisfied,Home,943,0
+1616,70,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,2465,0
+1617,70,Male,Chicago,Bronze,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Home,1131,0
+1618,34,Male,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,4013,1
+1619,41,Female,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Electronics,3852,1
+1620,55,Male,Los Angeles,Silver,Computer,4.5,6/12/2023,32,Satisfied,Home,4117,0
+1621,62,Female,Los Angeles,Silver,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Electronics,2465,0
+1622,62,Female,New York,Gold,Mobile Phone,4.1,21/12/2023,17,Neutral,Books,1345,0
+1623,68,Female,Miami,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,3705,0
+1624,60,Female,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Electronics,5288,1
+1625,55,Female,Los Angeles,Silver,Mobile Phone,4.8,29/12/2023,9,Satisfied,Electronics,3842,0
+1626,29,Male,Los Angeles,Silver,Computer,4.5,11/12/2023,27,Satisfied,Home,3177,0
+1627,29,Male,Chicago,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Home,3630,0
+1628,31,Male,New York,Gold,Mobile Phone,4,23/12/2023,15,Neutral,Home,518,0
+1629,31,Male,Los Angeles,Silver,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Clothing,4089,0
+1630,31,Male,Chicago,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,3052,0
+1631,20,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,3384,0
+1632,20,Male,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Home,1411,0
+1633,20,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Electronics,2070,0
+1634,37,Male,New York,Gold,Computer,4.6,11/12/2023,27,Satisfied,Books,3400,1
+1635,50,Female,Los Angeles,Silver,Mobile Phone,4,24/12/2023,14,Neutral,Electronics,2776,0
+1636,50,Female,New York,Gold,Mobile Phone,4.5,17/12/2023,21,Satisfied,Electronics,1405,0
+1637,21,Male,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Clothing,2376,0
+1638,22,Female,San Francisco,Gold,Mobile Phone,3.3,23/11/2023,45,Unsatisfied,Clothing,4374,0
+1639,54,Male,Houston,Bronze,Mobile Phone,3.2,18/12/2023,20,Neutral,Books,1881,0
+1640,47,Female,Los Angeles,Silver,Computer,4.1,19/12/2023,19,Neutral,Home,1608,0
+1641,47,Female,New York,Gold,Computer,4.5,4/12/2023,34,Satisfied,Books,2905,0
+1642,61,Female,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Clothing,1172,1
+1643,43,Male,San Francisco,Gold,Mobile Phone,4.8,29/12/2023,9,Satisfied,Electronics,2719,0
+1644,40,Female,Miami,Silver,Computer,3.9,22/11/2023,46,Unsatisfied,Clothing,2027,0
+1645,38,Male,Miami,Silver,Mobile Phone,4.9,29/12/2023,9,Satisfied,Home,4524,0
+1646,70,Female,Los Angeles,Silver,Computer,4.4,16/12/2023,22,Satisfied,Books,642,1
+1647,70,Female,New York,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,3383,1
+1648,70,Female,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,3731,1
+1649,62,Male,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Electronics,3809,0
+1650,62,Male,San Francisco,Gold,Computer,4.8,26/12/2023,12,Satisfied,Home,3218,0
+1651,62,Male,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,4683,0
+1652,55,Female,Los Angeles,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,4009,1
+1653,56,Male,San Francisco,Gold,Computer,3.3,25/11/2023,43,Unsatisfied,Home,1126,0
+1654,56,Male,Chicago,Bronze,Computer,4.2,20/12/2023,18,Neutral,Books,4431,0
+1655,57,Female,Chicago,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,4085,0
+1656,23,Female,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Clothing,2282,0
+1657,32,Male,Miami,Silver,Computer,3.9,22/11/2023,46,Unsatisfied,Home,2451,0
+1658,33,Male,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Books,3336,0
+1659,33,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,4326,0
+1660,39,Male,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,2023,0
+1661,29,Female,Los Angeles,Silver,Computer,4.3,26/12/2023,12,Neutral,Electronics,3763,0
+1662,29,Female,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Clothing,3843,0
+1663,40,Female,San Francisco,Gold,Mobile Phone,3.3,19/11/2023,49,Unsatisfied,Clothing,2215,0
+1664,40,Female,Chicago,Bronze,Computer,4.2,17/12/2023,21,Neutral,Clothing,3045,0
+1665,40,Female,Los Angeles,Silver,Mobile Phone,4.5,10/12/2023,28,Satisfied,Books,4234,0
+1666,40,Female,Miami,Silver,Computer,4.6,13/12/2023,25,Satisfied,Books,2601,0
+1667,52,Female,Los Angeles,Silver,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,2004,0
+1668,20,Male,Chicago,Bronze,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Books,898,0
+1669,20,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,710,0
+1670,44,Female,Chicago,Bronze,Mobile Phone,4.2,17/12/2023,21,Neutral,Clothing,900,0
+1671,66,Female,Los Angeles,Silver,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Clothing,4254,0
+1672,58,Male,New York,Gold,Mobile Phone,3,16/12/2023,22,Neutral,Clothing,1996,0
+1673,58,Male,San Francisco,Gold,Mobile Phone,3.3,23/11/2023,45,Unsatisfied,Electronics,3619,0
+1674,58,Male,Los Angeles,Silver,Mobile Phone,4.5,13/12/2023,25,Satisfied,Clothing,3826,0
+1675,58,Male,Chicago,Bronze,Computer,4.1,20/12/2023,18,Neutral,Clothing,779,0
+1676,48,Male,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Books,682,0
+1677,38,Female,Chicago,Bronze,Computer,3.5,1/12/2023,37,Unsatisfied,Electronics,5107,0
+1678,38,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,5002,0
+1679,25,Female,Houston,Bronze,Mobile Phone,3.1,15/12/2023,23,Neutral,Books,211,0
+1680,59,Male,Miami,Silver,Mobile Phone,4.9,26/12/2023,12,Satisfied,Electronics,373,0
+1681,59,Male,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Books,4696,0
+1682,59,Male,San Francisco,Gold,Mobile Phone,3.6,24/11/2023,44,Unsatisfied,Clothing,501,0
+1683,25,Male,New York,Gold,Computer,3.2,14/12/2023,24,Neutral,Home,4150,0
+1684,63,Female,New York,Gold,Mobile Phone,3.2,13/12/2023,25,Neutral,Clothing,4785,0
+1685,63,Female,Houston,Bronze,Computer,4,13/11/2023,55,Unsatisfied,Electronics,3313,0
+1686,63,Female,Miami,Silver,Mobile Phone,4.8,27/12/2023,11,Satisfied,Clothing,2195,0
+1687,31,Male,Houston,Bronze,Mobile Phone,4.1,5/11/2023,63,Unsatisfied,Books,4542,0
+1688,66,Male,Los Angeles,Silver,Mobile Phone,4.5,5/12/2023,33,Satisfied,Home,3918,0
+1689,42,Male,Los Angeles,Silver,Computer,4.5,18/12/2023,20,Satisfied,Electronics,3497,1
+1690,42,Male,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,4920,1
+1691,46,Male,Houston,Bronze,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,4504,0
+1692,46,Male,New York,Gold,Computer,4.3,25/12/2023,13,Neutral,Electronics,3251,0
+1693,42,Female,New York,Gold,Computer,4.5,12/12/2023,26,Satisfied,Electronics,4609,0
+1694,25,Male,Houston,Bronze,Mobile Phone,4.1,20/12/2023,18,Neutral,Books,2433,1
+1695,36,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,3857,0
+1696,36,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Home,3206,0
+1697,52,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,3754,0
+1698,64,Male,New York,Gold,Mobile Phone,4.5,10/12/2023,28,Satisfied,Clothing,5313,0
+1699,64,Male,Houston,Bronze,Mobile Phone,3.2,13/12/2023,25,Neutral,Books,2164,0
+1700,60,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Books,2318,0
+1701,23,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,551,0
+1702,23,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Electronics,3660,0
+1703,28,Male,Houston,Bronze,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Books,1465,0
+1704,63,Female,Chicago,Bronze,Mobile Phone,4.5,2/12/2023,36,Satisfied,Books,3173,0
+1705,70,Male,Miami,Silver,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,444,0
+1706,70,Male,San Francisco,Gold,Mobile Phone,4.1,21/12/2023,17,Neutral,Clothing,2347,0
+1707,70,Male,Houston,Bronze,Computer,4.8,26/12/2023,12,Satisfied,Electronics,2326,0
+1708,70,Male,Chicago,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,2684,0
+1709,61,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,4731,0
+1710,39,Female,Miami,Silver,Mobile Phone,4.9,25/12/2023,13,Satisfied,Books,2053,0
+1711,52,Male,Chicago,Bronze,Mobile Phone,4.1,22/12/2023,16,Neutral,Books,2528,0
+1712,52,Male,San Francisco,Gold,Mobile Phone,3.3,24/11/2023,44,Unsatisfied,Electronics,1035,0
+1713,52,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,3589,0
+1714,56,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,1826,0
+1715,56,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,1095,0
+1716,55,Female,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Books,1478,0
+1717,55,Female,New York,Gold,Mobile Phone,4.5,11/12/2023,27,Satisfied,Home,1697,0
+1718,22,Male,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,2547,0
+1719,22,Male,New York,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Clothing,3183,0
+1720,65,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Books,605,0
+1721,59,Female,Miami,Silver,Computer,3.4,15/12/2023,23,Neutral,Books,1234,0
+1722,44,Male,New York,Gold,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,301,0
+1723,44,Male,Los Angeles,Silver,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Home,2595,0
+1724,62,Male,Miami,Silver,Mobile Phone,4.8,24/12/2023,14,Satisfied,Home,1981,0
+1725,65,Male,New York,Gold,Mobile Phone,3.4,14/12/2023,24,Neutral,Home,3779,0
+1726,46,Male,New York,Gold,Mobile Phone,3.1,14/12/2023,24,Neutral,Books,1298,0
+1727,46,Male,Houston,Bronze,Mobile Phone,3.8,29/11/2023,39,Unsatisfied,Electronics,2311,0
+1728,20,Male,Chicago,Bronze,Computer,3.3,23/11/2023,45,Unsatisfied,Home,3798,0
+1729,20,Male,San Francisco,Gold,Computer,4.6,25/12/2023,13,Satisfied,Clothing,2916,0
+1730,20,Male,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Clothing,2118,0
+1731,20,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,4819,0
+1732,20,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Books,2237,0
+1733,30,Male,Los Angeles,Silver,Computer,3.6,29/11/2023,39,Unsatisfied,Home,4992,0
+1734,36,Male,Chicago,Bronze,Mobile Phone,3.6,24/11/2023,44,Unsatisfied,Electronics,2490,1
+1735,36,Male,San Francisco,Gold,Mobile Phone,4.9,26/12/2023,12,Satisfied,Electronics,539,1
+1736,35,Male,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,2015,0
+1737,35,Male,Los Angeles,Silver,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Electronics,4106,0
+1738,35,Male,Chicago,Bronze,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,3011,0
+1739,31,Female,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Clothing,3669,1
+1740,29,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Home,1221,0
+1741,29,Male,Los Angeles,Silver,Computer,4.3,26/12/2023,12,Neutral,Clothing,2203,0
+1742,29,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Clothing,3964,0
+1743,29,Male,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,3784,0
+1744,48,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,2617,0
+1745,62,Female,Houston,Bronze,Computer,3,20/12/2023,18,Neutral,Clothing,1339,0
+1746,62,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,3092,0
+1747,62,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,2725,0
+1748,61,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,625,1
+1749,61,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,1136,1
+1750,61,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,2291,1
+1751,30,Female,San Francisco,Gold,Mobile Phone,4.6,27/12/2023,11,Satisfied,Books,2446,0
+1752,30,Female,Miami,Silver,Mobile Phone,4,18/11/2023,50,Unsatisfied,Clothing,966,0
+1753,70,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,936,1
+1754,70,Female,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,2754,1
+1755,43,Male,Houston,Bronze,Mobile Phone,3.4,11/12/2023,27,Neutral,Books,3689,0
+1756,32,Male,New York,Gold,Mobile Phone,3.1,15/12/2023,23,Neutral,Books,2758,0
+1757,41,Female,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,3375,0
+1758,41,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Clothing,2859,0
+1759,41,Female,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,3660,0
+1760,56,Male,Miami,Silver,Mobile Phone,3.2,18/12/2023,20,Neutral,Clothing,1760,0
+1761,56,Male,San Francisco,Gold,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Home,555,0
+1762,19,Male,Houston,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Clothing,4460,1
+1763,35,Male,Chicago,Bronze,Mobile Phone,4.9,27/12/2023,11,Satisfied,Electronics,2231,0
+1764,35,Male,San Francisco,Gold,Mobile Phone,3.7,20/11/2023,48,Unsatisfied,Clothing,4166,0
+1765,70,Female,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,3234,0
+1766,70,Female,Miami,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Electronics,5215,0
+1767,51,Female,Houston,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Home,2439,0
+1768,51,Female,New York,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,4533,0
+1769,33,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,2959,0
+1770,21,Female,Los Angeles,Silver,Mobile Phone,3.4,8/12/2023,30,Neutral,Clothing,2658,0
+1771,57,Female,Los Angeles,Silver,Computer,4.1,22/12/2023,16,Neutral,Home,1947,0
+1772,34,Male,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Clothing,1378,1
+1773,61,Female,Miami,Silver,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Electronics,4141,0
+1774,42,Male,Miami,Silver,Computer,3.8,26/11/2023,42,Unsatisfied,Books,2372,0
+1775,42,Male,San Francisco,Gold,Computer,4.9,25/12/2023,13,Satisfied,Books,4914,0
+1776,39,Male,San Francisco,Gold,Computer,4,23/12/2023,15,Neutral,Books,3705,0
+1777,39,Male,Chicago,Bronze,Computer,4.7,19/12/2023,19,Satisfied,Clothing,4668,0
+1778,39,Male,Los Angeles,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Books,3168,0
+1779,63,Female,Miami,Silver,Computer,4.9,28/12/2023,10,Satisfied,Books,1633,0
+1780,63,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,5241,0
+1781,41,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,4517,0
+1782,51,Female,Miami,Silver,Computer,4.1,9/11/2023,59,Unsatisfied,Home,1147,0
+1783,51,Female,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Clothing,2430,0
+1784,51,Female,Chicago,Bronze,Mobile Phone,3.3,24/11/2023,44,Unsatisfied,Clothing,658,0
+1785,45,Male,Miami,Silver,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Home,4172,0
+1786,45,Male,San Francisco,Gold,Computer,4.1,21/12/2023,17,Neutral,Home,618,0
+1787,45,Male,Houston,Bronze,Computer,4.8,26/12/2023,12,Satisfied,Clothing,3713,0
+1788,53,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Clothing,3577,0
+1789,53,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Clothing,1404,0
+1790,29,Female,New York,Gold,Computer,4.5,10/12/2023,28,Satisfied,Home,3349,0
+1791,24,Male,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Books,4740,0
+1792,58,Female,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,2848,0
+1793,70,Female,New York,Gold,Mobile Phone,3,12/12/2023,26,Neutral,Clothing,437,0
+1794,61,Female,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Electronics,2403,0
+1795,26,Female,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Books,403,0
+1796,26,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,4031,0
+1797,68,Male,Los Angeles,Silver,Computer,3.6,30/11/2023,38,Unsatisfied,Home,1570,0
+1798,68,Male,Houston,Bronze,Computer,4.5,12/12/2023,26,Satisfied,Home,2509,0
+1799,68,Male,New York,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,845,0
+1800,38,Female,Houston,Bronze,Mobile Phone,4.1,11/11/2023,57,Unsatisfied,Home,2411,1
+1801,28,Male,Houston,Bronze,Computer,4.1,14/11/2023,54,Unsatisfied,Home,4312,0
+1802,57,Male,Los Angeles,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,2312,1
+1803,43,Female,New York,Gold,Computer,4.1,21/12/2023,17,Neutral,Clothing,5088,0
+1804,43,Female,Los Angeles,Silver,Computer,3.3,28/11/2023,40,Unsatisfied,Home,1446,0
+1805,57,Male,Chicago,Bronze,Mobile Phone,3.3,30/11/2023,38,Unsatisfied,Electronics,4838,0
+1806,53,Female,Chicago,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Electronics,4246,0
+1807,40,Male,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,2692,1
+1808,40,Male,Miami,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Clothing,1332,1
+1809,50,Female,New York,Gold,Mobile Phone,4.3,17/12/2023,21,Satisfied,Home,1088,1
+1810,54,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,4991,0
+1811,63,Male,New York,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,4666,0
+1812,18,Female,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Clothing,2385,0
+1813,36,Female,New York,Gold,Mobile Phone,3.4,14/12/2023,24,Neutral,Books,5029,0
+1814,28,Female,Miami,Silver,Computer,4.1,16/11/2023,52,Unsatisfied,Home,4140,0
+1815,28,Female,Houston,Bronze,Computer,3.4,14/12/2023,24,Neutral,Books,1758,0
+1816,28,Female,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,590,0
+1817,36,Female,Houston,Bronze,Computer,3.8,6/12/2023,32,Unsatisfied,Books,3092,1
+1818,36,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Books,3491,1
+1819,51,Female,Houston,Bronze,Mobile Phone,4.5,12/12/2023,26,Satisfied,Home,2673,0
+1820,51,Female,New York,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Home,2027,0
+1821,69,Female,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,2183,0
+1822,23,Female,Houston,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Electronics,1282,0
+1823,23,Female,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Electronics,2885,0
+1824,28,Male,Los Angeles,Silver,Computer,4.5,12/12/2023,26,Satisfied,Home,223,0
+1825,28,Male,New York,Gold,Mobile Phone,3.1,17/12/2023,21,Neutral,Clothing,869,0
+1826,39,Female,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Home,1310,1
+1827,22,Female,Houston,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,2714,1
+1828,22,Female,New York,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Home,4545,1
+1829,22,Female,Los Angeles,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,2259,1
+1830,22,Female,Miami,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Clothing,3844,1
+1831,55,Female,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Books,2148,0
+1832,55,Female,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,1675,0
+1833,64,Male,New York,Gold,Computer,3.2,14/12/2023,24,Neutral,Clothing,2516,0
+1834,64,Male,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,3912,0
+1835,64,Male,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Home,2862,0
+1836,64,Male,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,1111,0
+1837,40,Female,New York,Gold,Mobile Phone,3.4,26/11/2023,42,Unsatisfied,Home,993,1
+1838,37,Male,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,3875,1
+1839,37,Male,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,4504,1
+1840,43,Female,Miami,Silver,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,1706,0
+1841,43,Female,San Francisco,Gold,Computer,4.2,24/12/2023,14,Satisfied,Home,4935,0
+1842,58,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Clothing,5150,0
+1843,33,Male,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Home,1526,1
+1844,33,Male,Miami,Silver,Mobile Phone,4.1,9/11/2023,59,Unsatisfied,Electronics,1523,1
+1845,49,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,3815,0
+1846,43,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,2644,0
+1847,24,Male,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,3091,0
+1848,23,Female,San Francisco,Gold,Computer,4.9,29/12/2023,9,Satisfied,Home,2337,0
+1849,56,Female,Los Angeles,Silver,Mobile Phone,4.5,15/12/2023,23,Satisfied,Books,1718,1
+1850,21,Female,San Francisco,Gold,Computer,4.9,29/12/2023,9,Satisfied,Electronics,3644,0
+1851,21,Female,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Home,2525,0
+1852,26,Male,Miami,Silver,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,1623,1
+1853,46,Male,New York,Gold,Mobile Phone,3.4,11/12/2023,27,Neutral,Home,320,0
+1854,46,Male,Los Angeles,Silver,Computer,4.5,7/12/2023,31,Satisfied,Books,3940,0
+1855,46,Male,Chicago,Bronze,Mobile Phone,4.3,23/12/2023,15,Neutral,Clothing,2991,0
+1856,66,Male,San Francisco,Gold,Mobile Phone,3.6,25/11/2023,43,Unsatisfied,Electronics,4200,0
+1857,34,Female,Los Angeles,Silver,Mobile Phone,4.5,4/12/2023,34,Satisfied,Home,1797,0
+1858,40,Male,San Francisco,Gold,Mobile Phone,4.9,27/12/2023,11,Satisfied,Clothing,2793,0
+1859,40,Male,Houston,Bronze,Mobile Phone,3,16/12/2023,22,Neutral,Home,1020,0
+1860,40,Male,New York,Gold,Computer,4.5,15/12/2023,23,Satisfied,Books,4340,0
+1861,40,Male,Miami,Silver,Computer,3.8,2/12/2023,36,Unsatisfied,Electronics,604,0
+1862,30,Female,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,214,0
+1863,30,Female,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Clothing,2764,0
+1864,30,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Books,471,0
+1865,31,Female,San Francisco,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,4485,0
+1866,50,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,2122,0
+1867,50,Male,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,2655,0
+1868,47,Female,Miami,Silver,Mobile Phone,4.6,26/12/2023,12,Satisfied,Books,2031,0
+1869,47,Female,Houston,Bronze,Mobile Phone,4.1,10/11/2023,58,Unsatisfied,Electronics,3482,0
+1870,31,Male,Houston,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,3537,0
+1871,32,Female,Houston,Bronze,Mobile Phone,3.8,27/11/2023,41,Unsatisfied,Books,2477,0
+1872,27,Male,New York,Gold,Computer,4.5,18/12/2023,20,Satisfied,Clothing,3215,0
+1873,32,Female,Chicago,Bronze,Computer,3.3,27/11/2023,41,Unsatisfied,Electronics,547,0
+1874,68,Male,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Clothing,2405,0
+1875,55,Female,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,2655,0
+1876,52,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Books,899,0
+1877,52,Female,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,646,0
+1878,60,Female,Houston,Bronze,Mobile Phone,4.1,6/11/2023,62,Unsatisfied,Electronics,2026,0
+1879,60,Female,San Francisco,Gold,Mobile Phone,3.3,21/11/2023,47,Unsatisfied,Clothing,854,0
+1880,60,Female,New York,Gold,Mobile Phone,3.4,7/12/2023,31,Neutral,Books,5235,0
+1881,60,Female,Miami,Silver,Mobile Phone,4.6,24/12/2023,14,Satisfied,Clothing,4776,0
+1882,63,Male,Miami,Silver,Computer,4.5,10/12/2023,28,Satisfied,Clothing,1935,0
+1883,38,Male,Chicago,Bronze,Computer,4.5,2/12/2023,36,Satisfied,Clothing,5120,0
+1884,38,Male,San Francisco,Gold,Computer,4.1,18/12/2023,20,Neutral,Books,2507,0
+1885,35,Male,San Francisco,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,1593,0
+1886,35,Male,Houston,Bronze,Computer,4.5,18/12/2023,20,Satisfied,Electronics,2094,0
+1887,35,Male,Miami,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,346,0
+1888,41,Female,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,4092,1
+1889,42,Female,Houston,Bronze,Mobile Phone,4.1,10/11/2023,58,Unsatisfied,Books,1527,0
+1890,42,Female,Miami,Silver,Mobile Phone,4.6,26/12/2023,12,Satisfied,Electronics,1444,0
+1891,50,Male,Los Angeles,Silver,Mobile Phone,3,16/12/2023,22,Neutral,Electronics,1969,0
+1892,50,Male,New York,Gold,Computer,3.8,30/11/2023,38,Unsatisfied,Electronics,511,0
+1893,45,Male,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,2469,0
+1894,28,Female,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,3432,0
+1895,28,Female,Houston,Bronze,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,4291,0
+1896,43,Female,Los Angeles,Silver,Computer,4.5,2/12/2023,36,Satisfied,Electronics,4913,0
+1897,27,Male,Houston,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,4833,0
+1898,27,Male,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,4295,0
+1899,66,Male,Chicago,Bronze,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,668,0
+1900,66,Male,Los Angeles,Silver,Mobile Phone,3.4,15/12/2023,23,Unsatisfied,Home,2370,0
+1901,19,Male,Chicago,Bronze,Mobile Phone,4.6,11/12/2023,27,Satisfied,Books,850,0
+1902,49,Male,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,1260,0
+1903,49,Male,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,4146,0
+1904,49,Male,New York,Gold,Mobile Phone,3.1,17/12/2023,21,Unsatisfied,Electronics,4924,0
+1905,54,Female,Los Angeles,Silver,Mobile Phone,4.5,15/12/2023,23,Satisfied,Clothing,2705,0
+1906,46,Female,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,1932,1
+1907,46,Female,Chicago,Bronze,Computer,4.5,4/12/2023,34,Satisfied,Electronics,2963,1
+1908,58,Male,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,3819,0
+1909,62,Female,New York,Gold,Computer,3.1,18/12/2023,20,Neutral,Clothing,962,1
+1910,42,Female,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Clothing,2863,0
+1911,42,Female,New York,Gold,Computer,3.2,14/12/2023,24,Neutral,Electronics,3456,0
+1912,42,Female,Chicago,Bronze,Computer,3.9,21/11/2023,47,Unsatisfied,Home,3768,0
+1913,42,Female,Los Angeles,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,875,0
+1914,43,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,1195,0
+1915,43,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,2085,0
+1916,25,Female,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Electronics,3222,0
+1917,25,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Home,4252,0
+1918,45,Female,New York,Gold,Mobile Phone,4.3,17/12/2023,21,Satisfied,Clothing,3828,0
+1919,55,Female,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,1664,0
+1920,55,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,4057,0
+1921,59,Male,San Francisco,Gold,Computer,4.7,28/12/2023,10,Satisfied,Clothing,523,1
+1922,59,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,3050,1
+1923,59,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Home,3778,1
+1924,59,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Electronics,2118,1
+1925,40,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,1573,0
+1926,40,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Clothing,2191,0
+1927,40,Male,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Clothing,827,0
+1928,32,Female,Miami,Silver,Computer,4.8,26/12/2023,12,Satisfied,Electronics,3778,1
+1929,20,Male,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,4276,0
+1930,20,Male,Los Angeles,Silver,Mobile Phone,4.5,8/12/2023,30,Satisfied,Home,1182,0
+1931,20,Male,San Francisco,Gold,Mobile Phone,3.6,26/11/2023,42,Unsatisfied,Home,605,0
+1932,67,Female,Miami,Silver,Computer,3,20/12/2023,18,Neutral,Electronics,1570,0
+1933,55,Female,Los Angeles,Silver,Mobile Phone,4.1,20/12/2023,18,Neutral,Books,1665,0
+1934,32,Male,Los Angeles,Silver,Mobile Phone,4.5,4/12/2023,34,Satisfied,Home,599,0
+1935,33,Male,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Home,432,1
+1936,70,Male,San Francisco,Gold,Computer,4.7,28/12/2023,10,Satisfied,Books,4879,0
+1937,27,Female,New York,Gold,Mobile Phone,3.1,19/12/2023,19,Neutral,Electronics,540,0
+1938,27,Female,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Books,2235,0
+1939,27,Female,Houston,Bronze,Computer,3.8,5/12/2023,33,Unsatisfied,Electronics,204,0
+1940,44,Female,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Electronics,3700,0
+1941,44,Female,Chicago,Bronze,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Books,3519,0
+1942,51,Female,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Electronics,4674,0
+1943,51,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,4536,0
+1944,51,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Books,689,0
+1945,51,Female,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,2281,0
+1946,30,Female,San Francisco,Gold,Mobile Phone,3.3,24/11/2023,44,Unsatisfied,Electronics,3242,0
+1947,31,Female,Los Angeles,Silver,Mobile Phone,4.7,14/12/2023,24,Satisfied,Home,1188,0
+1948,31,Female,Chicago,Bronze,Computer,4.1,22/12/2023,16,Neutral,Books,1094,0
+1949,18,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,3739,1
+1950,18,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,4401,1
+1951,18,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,5033,1
+1952,62,Female,Miami,Silver,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,1245,1
+1953,62,Female,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Home,4753,1
+1954,62,Female,San Francisco,Gold,Computer,3.6,30/11/2023,38,Unsatisfied,Clothing,2827,1
+1955,62,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,2428,1
+1956,62,Female,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,766,1
+1957,34,Female,Miami,Silver,Computer,4.7,9/12/2023,29,Satisfied,Clothing,2843,0
+1958,23,Female,New York,Gold,Computer,4.7,16/12/2023,22,Satisfied,Home,1093,0
+1959,23,Female,Houston,Bronze,Computer,3.1,17/12/2023,21,Neutral,Electronics,737,0
+1960,38,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,1755,0
+1961,54,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,3253,0
+1962,21,Male,Chicago,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,1212,1
+1963,21,Male,San Francisco,Gold,Computer,3.6,29/11/2023,39,Unsatisfied,Books,2044,1
+1964,21,Male,Los Angeles,Silver,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,2965,1
+1965,56,Female,San Francisco,Gold,Mobile Phone,4.1,20/12/2023,18,Neutral,Home,609,0
+1966,36,Female,Miami,Silver,Computer,3.8,5/12/2023,33,Unsatisfied,Home,3666,0
+1967,36,Female,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Books,4057,0
+1968,36,Female,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Clothing,3147,0
+1969,23,Male,Chicago,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,4568,0
+1970,31,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,998,0
+1971,31,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,3131,0
+1972,49,Female,Chicago,Bronze,Mobile Phone,3.6,22/11/2023,46,Unsatisfied,Clothing,1176,0
+1973,29,Male,San Francisco,Gold,Mobile Phone,3.1,16/12/2023,22,Neutral,Clothing,2717,0
+1974,20,Male,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Home,4209,0
+1975,20,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Books,1505,0
+1976,20,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Home,1507,0
+1977,43,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,1952,0
+1978,43,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,3596,0
+1979,43,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Clothing,1001,0
+1980,43,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Home,2521,0
+1981,24,Female,Houston,Bronze,Computer,4.4,16/12/2023,22,Satisfied,Books,1079,1
+1982,24,Female,Miami,Silver,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,768,1
+1983,32,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,2670,1
+1984,32,Female,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Clothing,2602,1
+1985,32,Female,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Home,1619,1
+1986,65,Male,New York,Gold,Computer,3.4,14/12/2023,24,Neutral,Clothing,1146,0
+1987,21,Male,Miami,Silver,Computer,4.1,14/11/2023,54,Unsatisfied,Clothing,1595,0
+1988,20,Male,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Books,366,0
+1989,20,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,3280,0
+1990,20,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,3433,0
+1991,20,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Electronics,1526,0
+1992,27,Female,San Francisco,Gold,Mobile Phone,4.7,29/12/2023,9,Satisfied,Home,2544,1
+1993,61,Male,New York,Gold,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,4878,0
+1994,44,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,238,0
+1995,63,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Unsatisfied,Books,3654,0
+1996,33,Male,Houston,Bronze,Computer,3,20/12/2023,18,Neutral,Books,270,1
+1997,67,Male,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,5248,1
+1998,48,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Clothing,439,0
+1999,48,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,2817,0
+2000,34,Male,Chicago,Bronze,Mobile Phone,4.3,22/12/2023,16,Neutral,Electronics,1617,1
+2001,34,Male,San Francisco,Gold,Computer,3.6,23/11/2023,45,Unsatisfied,Books,1863,1
+2002,23,Male,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Books,479,0
+2003,46,Female,Houston,Bronze,Mobile Phone,3,11/12/2023,27,Neutral,Electronics,4141,0
+2004,20,Female,Los Angeles,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,1162,0
+2005,33,Female,Chicago,Bronze,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Electronics,2752,0
+2006,33,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,4536,0
+2007,33,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Electronics,3069,0
+2008,64,Female,San Francisco,Gold,Computer,3.6,30/11/2023,38,Unsatisfied,Home,5088,0
+2009,65,Female,Houston,Bronze,Computer,3.8,28/11/2023,40,Unsatisfied,Clothing,4833,0
+2010,20,Female,Houston,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Home,2106,0
+2011,31,Male,New York,Gold,Computer,3.8,26/11/2023,42,Unsatisfied,Home,5060,1
+2012,31,Male,Houston,Bronze,Mobile Phone,4.9,25/12/2023,13,Satisfied,Clothing,390,1
+2013,31,Male,Los Angeles,Silver,Mobile Phone,3,11/12/2023,27,Neutral,Home,4072,1
+2014,31,Male,Miami,Silver,Computer,3.6,20/11/2023,48,Unsatisfied,Electronics,913,1
+2015,20,Female,Houston,Bronze,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,1236,0
+2016,20,Female,New York,Gold,Computer,4.3,25/12/2023,13,Neutral,Clothing,3343,0
+2017,20,Female,San Francisco,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,3826,0
+2018,20,Female,Miami,Silver,Computer,3.4,15/12/2023,23,Neutral,Books,219,0
+2019,50,Male,San Francisco,Gold,Mobile Phone,4,13/11/2023,55,Unsatisfied,Electronics,1535,0
+2020,50,Male,Chicago,Bronze,Computer,4.7,26/12/2023,12,Satisfied,Home,3942,0
+2021,47,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Clothing,562,0
+2022,66,Male,Chicago,Bronze,Mobile Phone,4.3,24/12/2023,14,Neutral,Home,978,0
+2023,33,Male,Los Angeles,Silver,Computer,3.4,15/12/2023,23,Neutral,Electronics,1940,0
+2024,39,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,4965,0
+2025,28,Female,New York,Gold,Mobile Phone,3.4,9/12/2023,29,Neutral,Books,4990,0
+2026,28,Female,Los Angeles,Silver,Mobile Phone,4.5,5/12/2023,33,Satisfied,Electronics,1706,0
+2027,68,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,2853,0
+2028,57,Male,Miami,Silver,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,898,0
+2029,57,Male,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,4191,0
+2030,55,Male,Houston,Bronze,Mobile Phone,3.2,13/12/2023,25,Neutral,Clothing,4797,0
+2031,55,Male,New York,Gold,Mobile Phone,4.5,10/12/2023,28,Satisfied,Electronics,3505,0
+2032,67,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Books,4025,1
+2033,67,Female,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,3851,1
+2034,40,Female,New York,Gold,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,498,0
+2035,41,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,519,0
+2036,18,Male,Houston,Bronze,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,1606,0
+2037,27,Female,Miami,Silver,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,1766,0
+2038,27,Female,San Francisco,Gold,Computer,3.4,15/12/2023,23,Neutral,Books,2509,0
+2039,27,Female,Chicago,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,3165,0
+2040,18,Male,San Francisco,Gold,Mobile Phone,4.9,27/12/2023,11,Satisfied,Electronics,4098,0
+2041,67,Female,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Electronics,3203,0
+2042,67,Female,Los Angeles,Silver,Mobile Phone,4.7,17/12/2023,21,Satisfied,Books,2616,0
+2043,67,Female,San Francisco,Gold,Computer,3.3,27/11/2023,41,Unsatisfied,Clothing,3886,0
+2044,66,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,2790,1
+2045,64,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Clothing,4765,0
+2046,64,Female,New York,Gold,Computer,4.7,19/12/2023,19,Satisfied,Electronics,4814,0
+2047,64,Male,New York,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,4583,0
+2048,64,Male,Los Angeles,Silver,Computer,3.6,29/11/2023,39,Unsatisfied,Clothing,3430,0
+2049,20,Male,Chicago,Bronze,Mobile Phone,4.8,29/12/2023,9,Satisfied,Electronics,349,0
+2050,20,Male,Los Angeles,Silver,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Clothing,4030,0
+2051,28,Female,Houston,Bronze,Computer,3.4,7/12/2023,31,Neutral,Books,4467,0
+2052,61,Male,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Home,3659,0
+2053,53,Male,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Clothing,3028,1
+2054,46,Female,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Books,4502,0
+2055,19,Female,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Home,1340,0
+2056,41,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Electronics,3158,0
+2057,70,Female,Chicago,Bronze,Computer,3.3,29/11/2023,39,Unsatisfied,Clothing,1225,0
+2058,23,Male,San Francisco,Gold,Mobile Phone,4.7,26/12/2023,12,Satisfied,Home,3857,1
+2059,63,Male,Houston,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,4853,0
+2060,63,Male,New York,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,2497,0
+2061,45,Male,San Francisco,Gold,Mobile Phone,3.6,22/11/2023,46,Unsatisfied,Clothing,2996,0
+2062,45,Male,Miami,Silver,Mobile Phone,4.9,26/12/2023,12,Satisfied,Clothing,1713,0
+2063,45,Male,New York,Gold,Mobile Phone,3,12/12/2023,26,Neutral,Home,772,0
+2064,45,Male,Houston,Bronze,Mobile Phone,3.8,28/11/2023,40,Unsatisfied,Home,3429,0
+2065,45,Male,Chicago,Bronze,Mobile Phone,4.1,19/12/2023,19,Neutral,Home,4233,0
+2066,39,Female,Houston,Bronze,Mobile Phone,4.6,13/12/2023,25,Satisfied,Books,602,0
+2067,27,Female,Houston,Bronze,Mobile Phone,3.4,10/12/2023,28,Neutral,Home,2318,0
+2068,42,Female,San Francisco,Gold,Computer,3.6,26/11/2023,42,Unsatisfied,Home,1668,1
+2069,48,Female,Miami,Silver,Computer,4.1,14/11/2023,54,Unsatisfied,Home,609,1
+2070,48,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,3569,1
+2071,65,Female,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Home,3046,0
+2072,58,Male,New York,Gold,Computer,3.4,6/12/2023,32,Neutral,Clothing,1970,0
+2073,59,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Home,4648,0
+2074,40,Female,Houston,Bronze,Mobile Phone,3.4,14/12/2023,24,Neutral,Books,2981,0
+2075,59,Female,Chicago,Bronze,Mobile Phone,3.3,22/11/2023,46,Unsatisfied,Electronics,1061,0
+2076,44,Male,Houston,Bronze,Mobile Phone,3.4,12/12/2023,26,Neutral,Clothing,2364,0
+2077,55,Female,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Electronics,2088,1
+2078,55,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Electronics,3385,1
+2079,32,Male,Los Angeles,Silver,Computer,3.4,6/12/2023,32,Neutral,Books,3382,0
+2080,32,Male,New York,Gold,Mobile Phone,4.1,5/11/2023,63,Unsatisfied,Home,3151,0
+2081,46,Female,New York,Gold,Mobile Phone,4.7,9/12/2023,29,Satisfied,Home,2026,0
+2082,57,Female,Chicago,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,4913,0
+2083,57,Female,Los Angeles,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,2274,0
+2084,46,Female,San Francisco,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,1142,0
+2085,46,Female,Chicago,Bronze,Mobile Phone,4.8,26/12/2023,12,Satisfied,Electronics,2587,0
+2086,40,Female,Chicago,Bronze,Mobile Phone,3.5,3/12/2023,35,Unsatisfied,Home,526,1
+2087,40,Female,San Francisco,Gold,Computer,4.7,29/12/2023,9,Satisfied,Books,4725,1
+2088,57,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Books,699,0
+2089,24,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,1652,0
+2090,24,Female,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,742,0
+2091,24,Female,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,4203,0
+2092,24,Female,Houston,Bronze,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,896,0
+2093,41,Male,Miami,Silver,Mobile Phone,4.1,16/11/2023,52,Unsatisfied,Clothing,4621,0
+2094,41,Male,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,2794,0
+2095,26,Male,Miami,Silver,Mobile Phone,4.1,6/11/2023,62,Unsatisfied,Home,3460,0
+2096,66,Male,Miami,Silver,Computer,4.8,25/12/2023,13,Satisfied,Home,2233,0
+2097,39,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,5093,0
+2098,67,Male,Los Angeles,Silver,Mobile Phone,4.4,23/12/2023,15,Satisfied,Home,4645,0
+2099,42,Male,Chicago,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Home,3922,0
+2100,42,Male,San Francisco,Gold,Mobile Phone,4,23/12/2023,15,Neutral,Home,3795,0
+2101,42,Male,Miami,Silver,Computer,3.3,29/11/2023,39,Unsatisfied,Home,4156,0
+2102,39,Female,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,2445,0
+2103,43,Male,Los Angeles,Silver,Computer,4.5,11/12/2023,27,Satisfied,Home,4715,1
+2104,43,Male,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,565,1
+2105,65,Female,Miami,Silver,Computer,4.3,17/12/2023,21,Satisfied,Books,4639,1
+2106,65,Female,Houston,Bronze,Mobile Phone,4.4,23/12/2023,15,Satisfied,Clothing,2303,1
+2107,65,Female,San Francisco,Gold,Computer,3.2,18/12/2023,20,Neutral,Home,2618,1
+2108,65,Female,Chicago,Bronze,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Clothing,3905,1
+2109,18,Male,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,117,0
+2110,18,Male,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Books,2395,0
+2111,62,Male,New York,Gold,Mobile Phone,4.5,6/12/2023,32,Satisfied,Home,2427,1
+2112,49,Female,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Home,3985,0
+2113,37,Female,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Home,289,0
+2114,58,Female,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,1689,1
+2115,58,Female,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Electronics,5045,1
+2116,58,Female,San Francisco,Gold,Computer,3.6,30/11/2023,38,Unsatisfied,Clothing,4683,1
+2117,51,Male,New York,Gold,Computer,4.8,20/12/2023,18,Satisfied,Home,1249,0
+2118,57,Male,Miami,Silver,Computer,3.8,5/12/2023,33,Unsatisfied,Books,2679,0
+2119,57,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,2207,0
+2120,57,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Clothing,2395,0
+2121,23,Male,San Francisco,Gold,Mobile Phone,3.6,22/11/2023,46,Unsatisfied,Electronics,953,0
+2122,23,Male,Chicago,Bronze,Mobile Phone,4.1,19/12/2023,19,Neutral,Books,536,0
+2123,66,Male,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Electronics,2499,0
+2124,66,Male,Miami,Silver,Computer,3.8,3/12/2023,35,Unsatisfied,Clothing,3345,0
+2125,66,Male,New York,Gold,Mobile Phone,4.7,16/12/2023,22,Satisfied,Clothing,3633,0
+2126,35,Male,New York,Gold,Mobile Phone,3.4,6/12/2023,32,Neutral,Clothing,1428,0
+2127,50,Male,Miami,Silver,Computer,3.8,5/12/2023,33,Unsatisfied,Home,280,0
+2128,64,Female,Los Angeles,Silver,Computer,4.4,16/12/2023,22,Satisfied,Books,2162,0
+2129,59,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,2432,0
+2130,25,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,4956,0
+2131,49,Male,Miami,Silver,Mobile Phone,3.3,19/11/2023,49,Unsatisfied,Clothing,3492,0
+2132,31,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Books,2596,0
+2133,31,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,4334,0
+2134,35,Female,Chicago,Bronze,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,1959,0
+2135,35,Female,Los Angeles,Silver,Mobile Phone,3.1,17/12/2023,21,Neutral,Home,549,0
+2136,67,Male,New York,Gold,Computer,4.5,18/12/2023,20,Satisfied,Home,988,0
+2137,67,Male,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Clothing,4720,0
+2138,67,Male,Los Angeles,Silver,Computer,4.2,24/12/2023,14,Satisfied,Books,2625,0
+2139,42,Male,Houston,Bronze,Computer,3.8,6/12/2023,32,Unsatisfied,Books,337,0
+2140,42,Male,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Electronics,2341,0
+2141,25,Male,Los Angeles,Silver,Computer,4.3,25/12/2023,13,Neutral,Clothing,4747,0
+2142,25,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,955,0
+2143,32,Male,Los Angeles,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,3676,0
+2144,32,Male,Chicago,Bronze,Computer,4.6,11/12/2023,27,Satisfied,Electronics,2465,0
+2145,32,Male,New York,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Electronics,282,0
+2146,23,Female,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,2874,0
+2147,25,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,1483,0
+2148,25,Female,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Clothing,739,0
+2149,63,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,4640,0
+2150,55,Male,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Clothing,3145,0
+2151,57,Female,San Francisco,Gold,Mobile Phone,4,23/12/2023,15,Neutral,Books,829,0
+2152,57,Female,Miami,Silver,Computer,3.3,29/11/2023,39,Unsatisfied,Clothing,3519,0
+2153,43,Female,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,2581,0
+2154,43,Female,San Francisco,Gold,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Books,329,0
+2155,68,Male,Houston,Bronze,Computer,4.8,23/12/2023,15,Satisfied,Home,4378,1
+2156,60,Male,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,652,1
+2157,64,Male,Los Angeles,Silver,Mobile Phone,3.4,26/11/2023,42,Unsatisfied,Clothing,4643,0
+2158,57,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,610,0
+2159,56,Female,Miami,Silver,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,4824,0
+2160,56,Female,Houston,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,4803,0
+2161,56,Female,New York,Gold,Computer,3.8,6/12/2023,32,Unsatisfied,Electronics,332,0
+2162,45,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,1725,1
+2163,49,Female,Houston,Bronze,Computer,4,15/11/2023,53,Unsatisfied,Electronics,1152,0
+2164,67,Male,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Home,3439,0
+2165,43,Male,San Francisco,Gold,Mobile Phone,4.8,27/12/2023,11,Satisfied,Electronics,375,0
+2166,43,Male,Miami,Silver,Mobile Phone,4,13/11/2023,55,Unsatisfied,Home,523,0
+2167,43,Male,Chicago,Bronze,Computer,3.3,28/11/2023,40,Unsatisfied,Clothing,1230,0
+2168,36,Female,Los Angeles,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Clothing,2754,1
+2169,67,Female,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,3564,0
+2170,56,Male,Chicago,Bronze,Computer,3.3,28/11/2023,40,Unsatisfied,Home,4909,1
+2171,56,Male,San Francisco,Gold,Computer,4.8,26/12/2023,12,Satisfied,Electronics,1810,1
+2172,56,Male,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Electronics,3725,1
+2173,38,Female,New York,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,2396,0
+2174,52,Male,San Francisco,Gold,Computer,3.5,1/12/2023,37,Unsatisfied,Home,4303,0
+2175,52,Male,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,613,0
+2176,52,Male,Miami,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Electronics,4511,0
+2177,52,Male,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Electronics,3626,0
+2178,42,Female,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Electronics,3989,0
+2179,42,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,2249,0
+2180,70,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,712,0
+2181,63,Female,Los Angeles,Silver,Mobile Phone,4.3,23/12/2023,15,Neutral,Books,4102,0
+2182,28,Male,Los Angeles,Silver,Mobile Phone,4.5,7/12/2023,31,Satisfied,Home,5053,0
+2183,28,Male,New York,Gold,Mobile Phone,3.4,11/12/2023,27,Neutral,Books,786,0
+2184,28,Male,Houston,Bronze,Mobile Phone,4.1,10/11/2023,58,Unsatisfied,Home,1857,0
+2185,47,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,4937,0
+2186,47,Female,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Books,929,0
+2187,47,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Books,2459,0
+2188,35,Male,Miami,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Books,2607,0
+2189,64,Male,San Francisco,Gold,Mobile Phone,4.6,26/12/2023,12,Satisfied,Home,5089,0
+2190,24,Female,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,4067,0
+2191,24,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,1553,0
+2192,32,Male,Miami,Silver,Mobile Phone,3.8,3/12/2023,35,Unsatisfied,Home,3406,0
+2193,32,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,4300,0
+2194,30,Female,Houston,Bronze,Computer,4.3,17/12/2023,21,Satisfied,Clothing,3595,1
+2195,69,Female,Houston,Bronze,Mobile Phone,4.7,9/12/2023,29,Satisfied,Home,2072,0
+2196,69,Female,Miami,Silver,Mobile Phone,3,13/12/2023,25,Neutral,Home,3528,0
+2197,51,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,592,0
+2198,50,Female,Chicago,Bronze,Computer,3.6,28/11/2023,40,Unsatisfied,Electronics,4462,1
+2199,50,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Books,2264,1
+2200,20,Female,Miami,Silver,Computer,3.5,1/12/2023,37,Unsatisfied,Electronics,4659,0
+2201,64,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Home,4048,0
+2202,64,Male,New York,Gold,Mobile Phone,4.5,11/12/2023,27,Satisfied,Electronics,332,0
+2203,64,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,4020,0
+2204,47,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,1169,1
+2205,47,Male,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Electronics,3719,1
+2206,33,Female,San Francisco,Gold,Mobile Phone,4.6,27/12/2023,11,Satisfied,Home,3582,0
+2207,33,Female,Miami,Silver,Mobile Phone,4,18/11/2023,50,Unsatisfied,Electronics,1914,0
+2208,64,Male,New York,Gold,Computer,4.4,16/12/2023,22,Satisfied,Electronics,1963,0
+2209,33,Female,New York,Gold,Mobile Phone,3.4,8/12/2023,30,Neutral,Books,2561,1
+2210,33,Female,Houston,Bronze,Mobile Phone,4.1,7/11/2023,61,Unsatisfied,Home,3819,1
+2211,58,Male,Houston,Bronze,Computer,4.7,28/12/2023,10,Satisfied,Clothing,599,0
+2212,58,Male,New York,Gold,Computer,3.9,21/11/2023,47,Unsatisfied,Books,2438,0
+2213,62,Male,Houston,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,2221,0
+2214,27,Male,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Home,3010,1
+2215,62,Female,Los Angeles,Silver,Mobile Phone,4.7,13/12/2023,25,Satisfied,Clothing,1968,0
+2216,62,Female,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Home,2813,0
+2217,67,Female,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Electronics,4548,1
+2218,60,Female,San Francisco,Gold,Mobile Phone,4.3,22/12/2023,16,Neutral,Clothing,1191,0
+2219,60,Female,Houston,Bronze,Mobile Phone,3.1,18/12/2023,20,Neutral,Electronics,3299,1
+2220,69,Male,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Electronics,3907,0
+2221,24,Female,San Francisco,Gold,Computer,4.3,18/12/2023,20,Neutral,Books,2972,0
+2222,25,Female,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Books,342,0
+2223,25,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Home,2458,0
+2224,50,Male,Chicago,Bronze,Mobile Phone,4.3,23/12/2023,15,Neutral,Home,3563,0
+2225,30,Male,Houston,Bronze,Computer,4.2,24/12/2023,14,Neutral,Home,3729,0
+2226,62,Female,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Home,382,0
+2227,59,Female,New York,Gold,Computer,4.4,16/12/2023,22,Satisfied,Home,3432,0
+2228,59,Female,Houston,Bronze,Computer,3.2,14/12/2023,24,Neutral,Home,3120,0
+2229,22,Male,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Clothing,3764,0
+2230,22,Male,Los Angeles,Silver,Mobile Phone,4.7,13/12/2023,25,Satisfied,Home,4241,0
+2231,21,Male,Houston,Bronze,Mobile Phone,4,22/12/2023,16,Neutral,Electronics,307,1
+2232,21,Male,Los Angeles,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,3488,1
+2233,21,Male,New York,Gold,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Books,359,1
+2234,21,Male,Chicago,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Books,3588,1
+2235,23,Male,Chicago,Bronze,Computer,4.3,23/12/2023,15,Neutral,Clothing,4536,0
+2236,63,Male,Chicago,Bronze,Mobile Phone,3.6,25/11/2023,43,Unsatisfied,Books,374,1
+2237,63,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,1642,1
+2238,54,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,1825,0
+2239,54,Male,Chicago,Bronze,Mobile Phone,3.3,26/11/2023,42,Unsatisfied,Electronics,4333,0
+2240,70,Male,Chicago,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,1430,0
+2241,39,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,1768,0
+2242,50,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,2670,0
+2243,50,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,1819,0
+2244,30,Female,Miami,Silver,Mobile Phone,3.1,17/12/2023,21,Unsatisfied,Home,3968,1
+2245,61,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,1263,0
+2246,61,Female,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Electronics,4826,0
+2247,31,Male,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,1211,0
+2248,35,Female,Chicago,Bronze,Mobile Phone,3.3,25/11/2023,43,Unsatisfied,Electronics,4153,0
+2249,35,Female,Miami,Silver,Computer,4.1,10/11/2023,58,Unsatisfied,Books,3248,0
+2250,35,Female,Los Angeles,Silver,Computer,4.2,20/12/2023,18,Neutral,Clothing,3046,0
+2251,35,Female,San Francisco,Gold,Computer,4.6,26/12/2023,12,Satisfied,Home,2823,0
+2252,37,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,4847,0
+2253,37,Male,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Home,1475,0
+2254,37,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Books,4994,0
+2255,59,Male,Houston,Bronze,Computer,4.7,28/12/2023,10,Satisfied,Home,3891,0
+2256,43,Female,Chicago,Bronze,Mobile Phone,4.3,22/12/2023,16,Neutral,Clothing,1576,0
+2257,62,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,5032,0
+2258,19,Male,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Electronics,1215,0
+2259,67,Female,Chicago,Bronze,Computer,4,23/12/2023,15,Neutral,Books,2162,0
+2260,67,Female,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,3406,0
+2261,44,Male,San Francisco,Gold,Mobile Phone,4.9,26/12/2023,12,Satisfied,Electronics,1156,1
+2262,44,Male,Miami,Silver,Mobile Phone,3.8,30/11/2023,38,Unsatisfied,Home,2909,1
+2263,44,Male,Chicago,Bronze,Mobile Phone,3.6,24/11/2023,44,Unsatisfied,Clothing,4527,1
+2264,60,Female,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Clothing,1066,0
+2265,60,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Clothing,1272,0
+2266,22,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,1975,0
+2267,22,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Electronics,1026,0
+2268,22,Female,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,356,0
+2269,43,Male,Chicago,Bronze,Mobile Phone,3.6,20/11/2023,48,Unsatisfied,Clothing,2882,0
+2270,38,Male,Houston,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,595,0
+2271,38,Male,Miami,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,920,0
+2272,24,Male,Chicago,Bronze,Mobile Phone,3.3,25/11/2023,43,Unsatisfied,Home,3881,1
+2273,24,Male,San Francisco,Gold,Mobile Phone,4.6,26/12/2023,12,Satisfied,Electronics,574,1
+2274,43,Female,New York,Gold,Computer,4.4,16/12/2023,22,Satisfied,Clothing,2384,0
+2275,43,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,3295,0
+2276,43,Female,Houston,Bronze,Computer,3.2,14/12/2023,24,Neutral,Home,2207,0
+2277,66,Male,Houston,Bronze,Mobile Phone,3.4,12/12/2023,26,Neutral,Home,1563,0
+2278,66,Male,New York,Gold,Computer,4.5,9/12/2023,29,Satisfied,Home,1980,0
+2279,46,Male,New York,Gold,Computer,3,20/12/2023,18,Neutral,Clothing,1546,0
+2280,46,Male,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,722,0
+2281,46,Male,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Electronics,3401,0
+2282,41,Female,New York,Gold,Computer,3,20/12/2023,18,Neutral,Books,2546,0
+2283,41,Female,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Electronics,1813,0
+2284,41,Female,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,2855,0
+2285,23,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Electronics,828,0
+2286,23,Male,New York,Gold,Computer,4.4,16/12/2023,22,Satisfied,Clothing,2135,0
+2287,23,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Books,2236,0
+2288,48,Male,Miami,Silver,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,3939,0
+2289,43,Female,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Books,2057,0
+2290,48,Female,New York,Gold,Mobile Phone,4.5,9/12/2023,29,Satisfied,Home,3236,0
+2291,48,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Electronics,2087,0
+2292,61,Male,Chicago,Bronze,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Electronics,3755,0
+2293,61,Female,Houston,Bronze,Mobile Phone,3,16/12/2023,22,Neutral,Clothing,2967,0
+2294,53,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,421,0
+2295,21,Female,San Francisco,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Clothing,4680,0
+2296,21,Female,Miami,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,142,0
+2297,55,Male,New York,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Electronics,2988,0
+2298,42,Female,San Francisco,Gold,Mobile Phone,3.6,25/11/2023,43,Unsatisfied,Electronics,2052,0
+2299,42,Female,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,2205,0
+2300,54,Female,Miami,Silver,Mobile Phone,4.8,23/12/2023,15,Satisfied,Electronics,964,0
+2301,21,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,1239,0
+2302,58,Male,Miami,Silver,Mobile Phone,4.1,11/11/2023,57,Unsatisfied,Home,2820,0
+2303,42,Female,New York,Gold,Computer,4.1,21/12/2023,17,Neutral,Home,4938,0
+2304,31,Female,San Francisco,Gold,Mobile Phone,4.8,27/12/2023,11,Satisfied,Electronics,1977,1
+2305,31,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Home,5125,1
+2306,31,Female,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Electronics,4232,1
+2307,30,Female,New York,Gold,Mobile Phone,3.4,9/12/2023,29,Neutral,Clothing,1869,1
+2308,56,Female,Chicago,Bronze,Computer,3.6,27/11/2023,41,Unsatisfied,Home,2392,0
+2309,35,Female,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Electronics,3389,1
+2310,63,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,4830,1
+2311,70,Female,Houston,Bronze,Mobile Phone,3.2,13/12/2023,25,Neutral,Electronics,2296,0
+2312,70,Female,Miami,Silver,Computer,4,13/11/2023,55,Unsatisfied,Books,2515,0
+2313,26,Female,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,3289,1
+2314,23,Male,San Francisco,Gold,Mobile Phone,4.6,24/12/2023,14,Satisfied,Books,4534,1
+2315,42,Male,New York,Gold,Mobile Phone,3.1,19/12/2023,19,Neutral,Clothing,737,0
+2316,42,Male,Houston,Bronze,Computer,3.8,5/12/2023,33,Unsatisfied,Electronics,5021,0
+2317,18,Male,Chicago,Bronze,Mobile Phone,4,13/11/2023,55,Unsatisfied,Books,1875,0
+2318,18,Male,Los Angeles,Silver,Mobile Phone,4.7,26/12/2023,12,Satisfied,Electronics,5009,0
+2319,70,Female,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Books,1414,0
+2320,40,Male,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Books,2582,0
+2321,40,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Home,640,0
+2322,67,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Books,3185,1
+2323,67,Female,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,1127,1
+2324,62,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,1908,0
+2325,40,Female,San Francisco,Gold,Computer,4.3,26/12/2023,12,Neutral,Home,5003,1
+2326,40,Female,Miami,Silver,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Books,1173,1
+2327,30,Female,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Home,3621,1
+2328,30,Female,Houston,Bronze,Computer,3.2,14/12/2023,24,Neutral,Home,2889,1
+2329,56,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Books,4456,1
+2330,56,Male,New York,Gold,Computer,4.4,16/12/2023,22,Satisfied,Books,2273,1
+2331,46,Male,New York,Gold,Mobile Phone,3.4,8/12/2023,30,Neutral,Books,4449,0
+2332,39,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,334,0
+2333,39,Male,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Home,5167,0
+2334,58,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,1830,0
+2335,54,Male,Chicago,Bronze,Mobile Phone,3.6,25/11/2023,43,Unsatisfied,Home,4938,0
+2336,41,Male,Miami,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Clothing,4054,0
+2337,18,Female,San Francisco,Gold,Mobile Phone,4.1,21/12/2023,17,Neutral,Home,2047,0
+2338,65,Male,Chicago,Bronze,Computer,4.5,12/12/2023,26,Satisfied,Home,685,0
+2339,47,Male,Houston,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,3383,0
+2340,53,Male,New York,Gold,Computer,3.1,10/12/2023,28,Neutral,Clothing,4435,0
+2341,53,Male,Los Angeles,Silver,Mobile Phone,4.7,10/12/2023,28,Satisfied,Clothing,3031,0
+2342,53,Male,Chicago,Bronze,Mobile Phone,4.1,19/12/2023,19,Neutral,Home,2300,0
+2343,33,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,5038,0
+2344,53,Female,New York,Gold,Mobile Phone,4.5,10/12/2023,28,Satisfied,Clothing,333,0
+2345,53,Female,Houston,Bronze,Mobile Phone,3.2,13/12/2023,25,Neutral,Home,1150,0
+2346,53,Female,Miami,Silver,Computer,4,13/11/2023,55,Unsatisfied,Home,500,0
+2347,56,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Clothing,1406,0
+2348,56,Female,Chicago,Bronze,Mobile Phone,3.6,27/11/2023,41,Unsatisfied,Clothing,3524,0
+2349,27,Male,New York,Gold,Mobile Phone,4.5,10/12/2023,28,Satisfied,Home,3883,0
+2350,27,Male,Houston,Bronze,Computer,3.1,16/12/2023,22,Neutral,Clothing,5018,0
+2351,27,Male,Chicago,Bronze,Mobile Phone,3.6,28/11/2023,40,Unsatisfied,Clothing,2881,0
+2352,27,Male,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Neutral,Books,4187,0
+2353,68,Female,Houston,Bronze,Mobile Phone,3.4,14/12/2023,24,Neutral,Home,5024,0
+2354,68,Female,New York,Gold,Computer,4.5,12/12/2023,26,Satisfied,Home,1106,0
+2355,68,Female,Miami,Silver,Mobile Phone,4.1,16/11/2023,52,Unsatisfied,Clothing,1147,0
+2356,38,Male,New York,Gold,Computer,4.7,17/12/2023,21,Satisfied,Home,4945,0
+2357,56,Female,New York,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Clothing,4443,1
+2358,56,Female,Los Angeles,Silver,Computer,3.1,19/12/2023,19,Neutral,Clothing,3901,1
+2359,42,Male,New York,Gold,Mobile Phone,4.8,20/12/2023,18,Satisfied,Clothing,972,0
+2360,20,Male,San Francisco,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,4026,1
+2361,20,Male,Chicago,Bronze,Computer,4.9,29/12/2023,9,Satisfied,Books,3336,1
+2362,50,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Clothing,4247,0
+2363,50,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,1393,0
+2364,29,Female,Chicago,Bronze,Mobile Phone,3.3,21/11/2023,47,Unsatisfied,Electronics,3747,0
+2365,45,Female,Houston,Bronze,Computer,4.1,8/11/2023,60,Unsatisfied,Books,2224,0
+2366,45,Female,Miami,Silver,Mobile Phone,4.6,25/12/2023,13,Satisfied,Books,1885,0
+2367,55,Female,Chicago,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,1686,1
+2368,55,Female,San Francisco,Gold,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,1976,1
+2369,48,Female,Chicago,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,495,0
+2370,48,Female,Los Angeles,Silver,Computer,3.3,29/11/2023,39,Unsatisfied,Books,2067,0
+2371,42,Female,Houston,Bronze,Computer,4.8,25/12/2023,13,Satisfied,Electronics,1607,0
+2372,30,Female,Miami,Silver,Mobile Phone,4.6,27/12/2023,11,Satisfied,Electronics,645,0
+2373,57,Male,New York,Gold,Computer,4.4,23/12/2023,15,Satisfied,Electronics,2212,0
+2374,57,Male,Los Angeles,Silver,Mobile Phone,3.5,30/11/2023,38,Unsatisfied,Books,1581,0
+2375,63,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Books,1815,0
+2376,53,Female,New York,Gold,Mobile Phone,3.4,10/12/2023,28,Neutral,Home,883,0
+2377,53,Female,Miami,Silver,Computer,4.8,25/12/2023,13,Satisfied,Books,1970,0
+2378,53,Female,Houston,Bronze,Mobile Phone,4.1,9/11/2023,59,Unsatisfied,Books,733,0
+2379,42,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,2122,0
+2380,47,Male,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,1675,0
+2381,47,Male,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Clothing,2804,0
+2382,26,Female,Houston,Bronze,Computer,3.1,17/12/2023,21,Neutral,Books,446,0
+2383,40,Female,Miami,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Clothing,4533,0
+2384,40,Female,Houston,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,1609,0
+2385,65,Female,Los Angeles,Silver,Mobile Phone,4.5,3/12/2023,35,Satisfied,Home,4110,0
+2386,65,Female,New York,Gold,Computer,3.4,7/12/2023,31,Neutral,Clothing,500,0
+2387,65,Female,Houston,Bronze,Mobile Phone,4.1,6/11/2023,62,Unsatisfied,Electronics,2721,0
+2388,67,Male,New York,Gold,Computer,4.5,11/12/2023,27,Satisfied,Clothing,4030,0
+2389,67,Male,Houston,Bronze,Computer,3.4,15/12/2023,23,Neutral,Clothing,765,0
+2390,57,Female,Los Angeles,Silver,Computer,4.5,18/12/2023,20,Satisfied,Clothing,3187,0
+2391,57,Female,New York,Gold,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,639,0
+2392,57,Female,Chicago,Bronze,Computer,4.2,24/12/2023,14,Satisfied,Electronics,1551,0
+2393,61,Female,Los Angeles,Silver,Mobile Phone,4,22/12/2023,16,Neutral,Books,3232,0
+2394,61,Female,Chicago,Bronze,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Electronics,3304,0
+2395,43,Female,Miami,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,1251,0
+2396,62,Female,Los Angeles,Silver,Mobile Phone,4.7,14/12/2023,24,Satisfied,Clothing,1113,0
+2397,57,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,402,1
+2398,57,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,1383,1
+2399,29,Female,Miami,Silver,Mobile Phone,4.8,24/12/2023,14,Satisfied,Electronics,4647,0
+2400,29,Female,San Francisco,Gold,Mobile Phone,3.3,22/11/2023,46,Unsatisfied,Clothing,613,0
+2401,29,Female,Houston,Bronze,Computer,4.1,7/11/2023,61,Unsatisfied,Electronics,1100,0
+2402,18,Male,Chicago,Bronze,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Clothing,4022,1
+2403,52,Female,Houston,Bronze,Mobile Phone,4.1,11/11/2023,57,Unsatisfied,Clothing,2321,0
+2404,52,Female,San Francisco,Gold,Computer,3.3,26/11/2023,42,Unsatisfied,Electronics,3006,0
+2405,52,Female,Miami,Silver,Computer,4.8,25/12/2023,13,Satisfied,Clothing,3009,0
+2406,56,Male,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Books,3016,0
+2407,56,Male,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,3449,0
+2408,56,Male,San Francisco,Gold,Computer,3.3,28/11/2023,40,Unsatisfied,Electronics,1040,0
+2409,56,Male,Los Angeles,Silver,Computer,4.4,16/12/2023,22,Satisfied,Clothing,2557,0
+2410,37,Female,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Home,895,0
+2411,49,Male,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,2294,1
+2412,49,Male,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,3385,1
+2413,42,Female,Los Angeles,Silver,Mobile Phone,3.1,17/12/2023,21,Neutral,Electronics,2021,1
+2414,42,Female,New York,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Electronics,856,1
+2415,58,Female,Houston,Bronze,Mobile Phone,3.2,14/12/2023,24,Neutral,Clothing,1447,1
+2416,67,Male,Houston,Bronze,Computer,3.8,6/12/2023,32,Unsatisfied,Home,4045,0
+2417,27,Female,New York,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Electronics,4267,0
+2418,31,Male,Miami,Silver,Mobile Phone,4.6,24/12/2023,14,Satisfied,Home,2028,0
+2419,31,Male,San Francisco,Gold,Mobile Phone,3.3,21/11/2023,47,Unsatisfied,Books,678,0
+2420,51,Female,Chicago,Bronze,Mobile Phone,4.1,18/12/2023,20,Neutral,Clothing,3150,1
+2421,51,Female,Los Angeles,Silver,Computer,4.5,2/12/2023,36,Satisfied,Books,2866,1
+2422,53,Female,San Francisco,Gold,Mobile Phone,3.6,21/11/2023,47,Unsatisfied,Books,3220,1
+2423,48,Male,Miami,Silver,Mobile Phone,4.1,8/11/2023,60,Unsatisfied,Electronics,260,1
+2424,39,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,4204,0
+2425,39,Female,Chicago,Bronze,Computer,3.5,1/12/2023,37,Unsatisfied,Clothing,773,0
+2426,39,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,3216,0
+2427,39,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Electronics,4981,0
+2428,19,Female,Houston,Bronze,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,743,1
+2429,19,Female,Miami,Silver,Mobile Phone,3.6,21/11/2023,47,Unsatisfied,Electronics,2020,1
+2430,64,Male,San Francisco,Gold,Mobile Phone,4.8,27/12/2023,11,Satisfied,Home,2925,0
+2431,64,Male,Miami,Silver,Computer,4,13/11/2023,55,Unsatisfied,Clothing,2750,0
+2432,33,Female,San Francisco,Gold,Mobile Phone,4.3,25/12/2023,13,Neutral,Home,1406,0
+2433,52,Female,Houston,Bronze,Mobile Phone,3.8,1/12/2023,37,Unsatisfied,Home,5077,0
+2434,52,Female,New York,Gold,Mobile Phone,3.1,15/12/2023,23,Neutral,Clothing,3147,0
+2435,46,Female,Chicago,Bronze,Mobile Phone,3.7,20/11/2023,48,Unsatisfied,Electronics,5182,0
+2436,46,Female,Los Angeles,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Clothing,4694,0
+2437,46,Female,New York,Gold,Mobile Phone,3.5,30/11/2023,38,Unsatisfied,Clothing,578,0
+2438,29,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,3300,1
+2439,29,Female,Chicago,Bronze,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Books,3617,1
+2440,38,Male,Chicago,Bronze,Mobile Phone,3.6,23/11/2023,45,Unsatisfied,Books,3916,0
+2441,28,Female,Los Angeles,Silver,Computer,3.6,30/11/2023,38,Unsatisfied,Books,3876,0
+2442,28,Female,San Francisco,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,4662,0
+2443,28,Female,New York,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,180,0
+2444,28,Female,Chicago,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,1544,0
+2445,25,Female,New York,Gold,Mobile Phone,4.5,13/12/2023,25,Satisfied,Books,2246,0
+2446,25,Female,Houston,Bronze,Computer,3,16/12/2023,22,Neutral,Books,4403,0
+2447,31,Male,New York,Gold,Computer,3.4,15/12/2023,23,Unsatisfied,Electronics,3896,0
+2448,31,Male,Los Angeles,Silver,Computer,4.5,12/12/2023,26,Satisfied,Home,1768,0
+2449,49,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,3709,0
+2450,49,Female,New York,Gold,Mobile Phone,4.7,13/12/2023,25,Satisfied,Clothing,776,0
+2451,35,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,3995,0
+2452,36,Male,Los Angeles,Silver,Mobile Phone,4.5,7/12/2023,31,Satisfied,Electronics,2497,1
+2453,36,Male,New York,Gold,Mobile Phone,3.4,11/12/2023,27,Neutral,Electronics,975,1
+2454,23,Male,Miami,Silver,Mobile Phone,3.8,3/12/2023,35,Unsatisfied,Clothing,2087,0
+2455,62,Female,Chicago,Bronze,Computer,3.3,28/11/2023,40,Unsatisfied,Home,4285,0
+2456,65,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Neutral,Clothing,2676,0
+2457,65,Female,Houston,Bronze,Computer,3.1,16/12/2023,22,Neutral,Clothing,4598,0
+2458,65,Female,New York,Gold,Mobile Phone,4.5,10/12/2023,28,Satisfied,Home,3882,0
+2459,33,Female,Miami,Silver,Computer,3.8,28/11/2023,40,Unsatisfied,Electronics,2822,0
+2460,33,Female,Houston,Bronze,Mobile Phone,3,12/12/2023,26,Neutral,Clothing,4215,0
+2461,22,Female,New York,Gold,Mobile Phone,4,22/12/2023,16,Neutral,Home,3544,1
+2462,51,Female,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,3759,0
+2463,51,Female,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,999,0
+2464,51,Female,New York,Gold,Computer,3.2,14/12/2023,24,Neutral,Electronics,3047,0
+2465,67,Male,Miami,Silver,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,2671,0
+2466,67,Male,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Home,1887,0
+2467,29,Female,Houston,Bronze,Mobile Phone,4.6,13/12/2023,25,Satisfied,Electronics,678,0
+2468,29,Female,New York,Gold,Mobile Phone,4.1,20/12/2023,18,Neutral,Home,390,0
+2469,45,Female,Los Angeles,Silver,Computer,4.6,11/12/2023,27,Satisfied,Home,3304,0
+2470,35,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Books,4769,0
+2471,35,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,4397,0
+2472,21,Male,Miami,Silver,Computer,4.8,25/12/2023,13,Satisfied,Electronics,2905,0
+2473,42,Female,Miami,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,3862,0
+2474,61,Female,Chicago,Bronze,Mobile Phone,4.5,11/12/2023,27,Satisfied,Books,2102,0
+2475,65,Male,New York,Gold,Mobile Phone,3.4,14/12/2023,24,Neutral,Clothing,3728,0
+2476,66,Male,Houston,Bronze,Computer,4,15/11/2023,53,Unsatisfied,Home,744,0
+2477,41,Male,Los Angeles,Silver,Computer,4.1,18/12/2023,20,Neutral,Books,1917,0
+2478,28,Male,New York,Gold,Mobile Phone,4.1,5/11/2023,63,Unsatisfied,Clothing,4952,0
+2479,28,Male,Miami,Silver,Computer,3.3,20/11/2023,48,Unsatisfied,Electronics,1897,0
+2480,28,Male,Houston,Bronze,Computer,4.8,23/12/2023,15,Satisfied,Clothing,1393,0
+2481,42,Male,San Francisco,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,987,0
+2482,39,Male,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Electronics,3159,0
+2483,32,Female,New York,Gold,Computer,4.5,7/12/2023,31,Satisfied,Home,1561,1
+2484,32,Female,Los Angeles,Silver,Mobile Phone,4.3,23/12/2023,15,Neutral,Home,2232,1
+2485,39,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,5087,0
+2486,27,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,2275,0
+2487,36,Female,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Electronics,3791,0
+2488,36,Female,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,2455,0
+2489,42,Female,Los Angeles,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,2940,0
+2490,42,Female,Chicago,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,902,0
+2491,42,Female,New York,Gold,Computer,3.8,5/12/2023,33,Unsatisfied,Home,1884,0
+2492,38,Female,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,2601,0
+2493,20,Male,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,4958,0
+2494,45,Male,Miami,Silver,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,362,0
+2495,45,Male,Houston,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Books,4799,0
+2496,19,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Home,1569,0
+2497,52,Female,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,2098,1
+2498,52,Female,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Books,3235,1
+2499,52,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,916,1
+2500,52,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Clothing,4969,1
+2501,57,Male,Chicago,Bronze,Mobile Phone,3.5,30/11/2023,38,Unsatisfied,Books,1030,0
+2502,68,Male,Chicago,Bronze,Computer,4.3,26/12/2023,12,Neutral,Electronics,2658,0
+2503,52,Female,Chicago,Bronze,Computer,3.3,30/11/2023,38,Unsatisfied,Clothing,711,0
+2504,47,Male,Miami,Silver,Mobile Phone,4.8,24/12/2023,14,Satisfied,Clothing,1970,0
+2505,44,Female,Houston,Bronze,Computer,4,13/11/2023,55,Unsatisfied,Electronics,2402,0
+2506,65,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,3454,0
+2507,65,Male,New York,Gold,Mobile Phone,3.4,8/12/2023,30,Neutral,Clothing,3189,0
+2508,65,Male,Houston,Bronze,Mobile Phone,4.1,7/11/2023,61,Unsatisfied,Home,3199,0
+2509,60,Male,San Francisco,Gold,Mobile Phone,3.7,20/11/2023,48,Unsatisfied,Books,1485,0
+2510,60,Male,Chicago,Bronze,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,426,0
+2511,41,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,4035,1
+2512,41,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,3182,1
+2513,23,Female,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,690,0
+2514,48,Female,Houston,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,1932,1
+2515,64,Male,Los Angeles,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,879,1
+2516,19,Male,Houston,Bronze,Computer,3.4,8/12/2023,30,Neutral,Clothing,353,0
+2517,27,Female,San Francisco,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,3643,0
+2518,62,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,967,0
+2519,62,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,648,0
+2520,30,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,828,1
+2521,23,Male,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,3214,0
+2522,69,Female,Los Angeles,Silver,Mobile Phone,4.8,29/12/2023,9,Satisfied,Electronics,549,0
+2523,60,Female,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Books,2329,0
+2524,60,Female,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,1686,0
+2525,47,Male,Chicago,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,4653,0
+2526,47,Male,Los Angeles,Silver,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Home,1645,0
+2527,51,Female,Miami,Silver,Mobile Phone,4.7,29/12/2023,9,Satisfied,Clothing,3653,0
+2528,67,Male,Miami,Silver,Mobile Phone,4.1,10/11/2023,58,Unsatisfied,Books,2053,1
+2529,55,Female,Houston,Bronze,Computer,4.1,5/11/2023,63,Unsatisfied,Clothing,2725,0
+2530,42,Female,Miami,Silver,Computer,3.6,20/11/2023,48,Unsatisfied,Home,3114,0
+2531,46,Female,Chicago,Bronze,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,902,1
+2532,46,Female,Los Angeles,Silver,Computer,3.5,1/12/2023,37,Unsatisfied,Books,1033,1
+2533,46,Female,San Francisco,Gold,Computer,3.9,21/11/2023,47,Unsatisfied,Books,2851,1
+2534,25,Male,Chicago,Bronze,Mobile Phone,4.8,29/12/2023,9,Satisfied,Clothing,380,0
+2535,25,Male,San Francisco,Gold,Computer,3.8,4/12/2023,34,Unsatisfied,Electronics,5109,0
+2536,25,Male,Los Angeles,Silver,Computer,3.6,28/11/2023,40,Unsatisfied,Home,1585,0
+2537,18,Female,San Francisco,Gold,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Books,2818,0
+2538,18,Female,Miami,Silver,Mobile Phone,4.8,27/12/2023,11,Satisfied,Home,4436,0
+2539,51,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Electronics,2753,0
+2540,27,Female,Los Angeles,Silver,Computer,4.6,11/12/2023,27,Satisfied,Clothing,3482,0
+2541,27,Female,Chicago,Bronze,Computer,4.3,25/12/2023,13,Neutral,Clothing,1875,0
+2542,27,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,4255,0
+2543,54,Female,Chicago,Bronze,Computer,3.3,28/11/2023,40,Unsatisfied,Electronics,3574,1
+2544,21,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Home,1666,0
+2545,63,Female,Los Angeles,Silver,Computer,4,24/12/2023,14,Neutral,Clothing,4785,0
+2546,62,Female,New York,Gold,Mobile Phone,4.1,7/11/2023,61,Unsatisfied,Home,2274,0
+2547,61,Male,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,3754,0
+2548,53,Male,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Electronics,478,0
+2549,39,Female,Houston,Bronze,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,962,0
+2550,39,Female,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,4803,0
+2551,34,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,1239,0
+2552,66,Male,Los Angeles,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Electronics,3666,0
+2553,24,Female,Miami,Silver,Computer,3.2,14/12/2023,24,Neutral,Electronics,2342,0
+2554,24,Female,San Francisco,Gold,Computer,3.9,21/11/2023,47,Unsatisfied,Home,2288,0
+2555,24,Female,Houston,Bronze,Computer,4.4,16/12/2023,22,Satisfied,Electronics,3282,0
+2556,48,Male,Los Angeles,Silver,Mobile Phone,4.3,18/12/2023,20,Neutral,Clothing,2388,0
+2557,48,Male,New York,Gold,Mobile Phone,4.5,3/12/2023,35,Satisfied,Electronics,1321,0
+2558,37,Female,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,2265,0
+2559,37,Female,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Electronics,3366,0
+2560,64,Male,Miami,Silver,Mobile Phone,4.6,26/12/2023,12,Satisfied,Books,3227,0
+2561,60,Female,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,340,1
+2562,20,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,3604,0
+2563,20,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Home,3271,0
+2564,66,Female,Miami,Silver,Computer,3.3,23/11/2023,45,Unsatisfied,Clothing,426,0
+2565,66,Female,Chicago,Bronze,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,1339,1
+2566,24,Female,Los Angeles,Silver,Computer,3.3,27/11/2023,41,Unsatisfied,Electronics,291,1
+2567,24,Female,Chicago,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,3608,1
+2568,65,Male,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,3334,1
+2569,65,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,3405,1
+2570,65,Male,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Clothing,1707,1
+2571,65,Male,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Electronics,3488,1
+2572,49,Female,Los Angeles,Silver,Mobile Phone,4.3,22/12/2023,16,Neutral,Books,1745,0
+2573,49,Female,New York,Gold,Mobile Phone,4.5,5/12/2023,33,Satisfied,Electronics,1592,0
+2574,56,Male,Chicago,Bronze,Mobile Phone,4.7,26/12/2023,12,Satisfied,Home,1596,0
+2575,62,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,2578,1
+2576,62,Female,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Clothing,4118,1
+2577,62,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,4871,1
+2578,62,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,2011,1
+2579,62,Female,Chicago,Bronze,Computer,3.3,29/11/2023,39,Unsatisfied,Electronics,4027,1
+2580,28,Male,Houston,Bronze,Mobile Phone,4.1,16/11/2023,52,Unsatisfied,Home,5106,0
+2581,34,Male,Chicago,Bronze,Mobile Phone,4.7,10/12/2023,28,Satisfied,Electronics,809,0
+2582,34,Male,San Francisco,Gold,Mobile Phone,4.1,19/12/2023,19,Neutral,Books,4033,0
+2583,68,Female,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,4783,0
+2584,42,Male,Houston,Bronze,Mobile Phone,3.8,26/11/2023,42,Unsatisfied,Books,3882,0
+2585,42,Male,San Francisco,Gold,Computer,3.6,20/11/2023,48,Unsatisfied,Electronics,2046,0
+2586,42,Male,New York,Gold,Mobile Phone,3,11/12/2023,27,Neutral,Home,4025,0
+2587,42,Male,Miami,Silver,Mobile Phone,4.9,25/12/2023,13,Satisfied,Electronics,768,0
+2588,36,Male,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,4727,0
+2589,36,Male,New York,Gold,Computer,3.4,15/12/2023,23,Neutral,Home,1764,0
+2590,25,Female,Houston,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,2186,0
+2591,35,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Home,2574,1
+2592,35,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,1410,1
+2593,65,Male,Los Angeles,Silver,Computer,3.5,30/11/2023,38,Unsatisfied,Home,5091,0
+2594,65,Male,Houston,Bronze,Mobile Phone,4.3,17/12/2023,21,Satisfied,Electronics,3640,0
+2595,65,Male,New York,Gold,Mobile Phone,4.4,23/12/2023,15,Satisfied,Home,1866,0
+2596,58,Male,Los Angeles,Silver,Computer,4.4,16/12/2023,22,Satisfied,Electronics,605,1
+2597,43,Male,Houston,Bronze,Computer,3.1,17/12/2023,21,Neutral,Clothing,3422,1
+2598,29,Male,Houston,Bronze,Mobile Phone,4.1,9/11/2023,59,Unsatisfied,Electronics,4453,1
+2599,25,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,4629,0
+2600,25,Male,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Electronics,2360,0
+2601,61,Male,Los Angeles,Silver,Computer,4.4,23/12/2023,15,Satisfied,Electronics,4041,0
+2602,61,Male,New York,Gold,Mobile Phone,4.3,17/12/2023,21,Satisfied,Home,2953,0
+2603,64,Male,San Francisco,Gold,Mobile Phone,3.6,21/11/2023,47,Unsatisfied,Books,5124,1
+2604,25,Male,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,3670,1
+2605,32,Male,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,2612,0
+2606,32,Male,Chicago,Bronze,Computer,4,23/12/2023,15,Neutral,Books,2474,0
+2607,32,Male,San Francisco,Gold,Computer,3.3,29/11/2023,39,Unsatisfied,Electronics,767,0
+2608,56,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Electronics,4003,0
+2609,18,Female,Miami,Silver,Mobile Phone,4.5,10/12/2023,28,Satisfied,Clothing,5078,1
+2610,48,Female,New York,Gold,Computer,3.9,21/11/2023,47,Unsatisfied,Home,1612,0
+2611,60,Male,San Francisco,Gold,Mobile Phone,3.6,26/11/2023,42,Unsatisfied,Clothing,1630,0
+2612,60,Male,Chicago,Bronze,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,2623,0
+2613,53,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,2627,0
+2614,53,Female,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,5124,0
+2615,46,Male,Houston,Bronze,Computer,3.2,13/12/2023,25,Neutral,Home,3743,1
+2616,28,Male,Chicago,Bronze,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,3927,0
+2617,28,Male,San Francisco,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Home,2617,0
+2618,28,Male,Miami,Silver,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Books,4876,0
+2619,65,Male,Houston,Bronze,Mobile Phone,3.4,14/12/2023,24,Neutral,Books,4684,0
+2620,65,Male,Miami,Silver,Mobile Phone,4.1,16/11/2023,52,Unsatisfied,Electronics,5197,0
+2621,24,Male,Miami,Silver,Computer,3.6,22/11/2023,46,Unsatisfied,Books,1376,0
+2622,24,Male,San Francisco,Gold,Mobile Phone,4.1,19/12/2023,19,Neutral,Books,4802,0
+2623,66,Male,Los Angeles,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Books,1860,0
+2624,66,Male,New York,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Books,2053,0
+2625,66,Male,Houston,Bronze,Mobile Phone,4.9,29/12/2023,9,Satisfied,Clothing,5199,0
+2626,54,Female,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Home,3417,0
+2627,26,Female,New York,Gold,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,657,0
+2628,38,Female,Houston,Bronze,Mobile Phone,4.1,9/11/2023,59,Unsatisfied,Books,477,0
+2629,38,Female,New York,Gold,Mobile Phone,3.4,10/12/2023,28,Neutral,Home,1908,0
+2630,35,Male,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Clothing,3871,0
+2631,35,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Electronics,2629,0
+2632,38,Male,New York,Gold,Computer,4.5,12/12/2023,26,Satisfied,Home,1269,0
+2633,38,Male,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Unsatisfied,Books,3690,0
+2634,40,Female,San Francisco,Gold,Mobile Phone,3.1,16/12/2023,22,Neutral,Clothing,2498,1
+2635,47,Male,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,1536,1
+2636,24,Male,Los Angeles,Silver,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Clothing,4447,0
+2637,24,Male,Chicago,Bronze,Computer,4.8,26/12/2023,12,Satisfied,Books,4705,0
+2638,54,Male,Chicago,Bronze,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,3130,0
+2639,52,Male,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,2207,1
+2640,40,Male,New York,Gold,Mobile Phone,3.2,14/12/2023,24,Neutral,Clothing,3030,0
+2641,21,Female,Los Angeles,Silver,Computer,4.5,18/12/2023,20,Satisfied,Books,440,0
+2642,49,Male,Chicago,Bronze,Mobile Phone,4,23/12/2023,15,Neutral,Home,1881,1
+2643,49,Male,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,2207,1
+2644,25,Female,Houston,Bronze,Mobile Phone,3.2,18/12/2023,20,Neutral,Clothing,1122,0
+2645,25,Female,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Home,2929,0
+2646,63,Male,New York,Gold,Mobile Phone,4.7,16/12/2023,22,Satisfied,Electronics,2148,0
+2647,48,Male,Los Angeles,Silver,Mobile Phone,4.4,23/12/2023,15,Satisfied,Home,1599,0
+2648,48,Male,Chicago,Bronze,Mobile Phone,3.5,30/11/2023,38,Unsatisfied,Home,1231,0
+2649,51,Male,Chicago,Bronze,Computer,4.8,26/12/2023,12,Satisfied,Electronics,2309,0
+2650,69,Female,Los Angeles,Silver,Mobile Phone,4,24/12/2023,14,Neutral,Books,424,0
+2651,66,Male,Chicago,Bronze,Computer,3.6,30/11/2023,38,Unsatisfied,Books,3946,0
+2652,69,Female,San Francisco,Gold,Computer,4.8,26/12/2023,12,Satisfied,Clothing,2055,0
+2653,69,Female,Miami,Silver,Mobile Phone,4,15/11/2023,53,Unsatisfied,Books,4198,0
+2654,21,Male,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Clothing,1346,0
+2655,21,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Home,4555,0
+2656,29,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Electronics,312,0
+2657,29,Female,Chicago,Bronze,Computer,4,23/12/2023,15,Neutral,Electronics,2192,0
+2658,29,Female,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Home,907,0
+2659,60,Male,Chicago,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,1842,0
+2660,60,Male,San Francisco,Gold,Computer,4,23/12/2023,15,Neutral,Home,1033,0
+2661,52,Male,New York,Gold,Mobile Phone,4.5,15/12/2023,23,Satisfied,Electronics,598,1
+2662,68,Female,Miami,Silver,Computer,4.9,28/12/2023,10,Satisfied,Home,4889,0
+2663,49,Female,Miami,Silver,Computer,4.7,28/12/2023,10,Satisfied,Clothing,1146,1
+2664,35,Male,San Francisco,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Home,1652,0
+2665,43,Male,Chicago,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Electronics,4899,1
+2666,20,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,4444,1
+2667,20,Female,Miami,Silver,Computer,4.1,14/11/2023,54,Unsatisfied,Books,4760,1
+2668,61,Male,Los Angeles,Silver,Computer,4.5,10/12/2023,28,Satisfied,Books,1059,0
+2669,32,Male,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Clothing,1230,0
+2670,32,Male,Los Angeles,Silver,Mobile Phone,4.5,8/12/2023,30,Satisfied,Clothing,4072,0
+2671,70,Male,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Books,2581,0
+2672,30,Male,Los Angeles,Silver,Mobile Phone,4.5,4/12/2023,34,Satisfied,Electronics,3207,0
+2673,64,Female,Los Angeles,Silver,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Home,929,0
+2674,64,Female,San Francisco,Gold,Computer,4.1,14/11/2023,54,Unsatisfied,Books,2296,0
+2675,64,Female,Chicago,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,2902,0
+2676,43,Female,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Clothing,5167,0
+2677,43,Female,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Clothing,2936,0
+2678,43,Female,San Francisco,Gold,Computer,4.9,29/12/2023,9,Satisfied,Electronics,1314,0
+2679,20,Female,San Francisco,Gold,Mobile Phone,4.8,29/12/2023,9,Satisfied,Home,2312,0
+2680,52,Male,Houston,Bronze,Mobile Phone,3.1,15/12/2023,23,Neutral,Home,2575,0
+2681,52,Male,Miami,Silver,Computer,3.8,1/12/2023,37,Unsatisfied,Electronics,3714,0
+2682,53,Male,Miami,Silver,Computer,3.4,15/12/2023,23,Neutral,Books,5180,0
+2683,53,Male,San Francisco,Gold,Computer,4.1,14/11/2023,54,Unsatisfied,Clothing,2011,0
+2684,69,Male,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,3515,0
+2685,69,Male,Miami,Silver,Computer,4,15/11/2023,53,Unsatisfied,Books,2417,0
+2686,58,Male,San Francisco,Gold,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,4583,1
+2687,61,Female,New York,Gold,Mobile Phone,4.5,17/12/2023,21,Satisfied,Clothing,3456,1
+2688,68,Female,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,1643,1
+2689,68,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,2643,1
+2690,29,Female,Miami,Silver,Computer,3.8,5/12/2023,33,Unsatisfied,Books,4356,0
+2691,29,Female,Houston,Bronze,Computer,3.1,19/12/2023,19,Neutral,Clothing,1328,0
+2692,70,Male,Los Angeles,Silver,Mobile Phone,4.5,10/12/2023,28,Satisfied,Books,3833,1
+2693,70,Male,New York,Gold,Mobile Phone,3,11/12/2023,27,Neutral,Electronics,920,1
+2694,70,Male,Houston,Bronze,Computer,3.8,26/11/2023,42,Unsatisfied,Books,4044,1
+2695,33,Female,Houston,Bronze,Mobile Phone,4.1,16/11/2023,52,Unsatisfied,Home,5109,0
+2696,19,Female,Miami,Silver,Mobile Phone,3.8,1/12/2023,37,Unsatisfied,Home,4064,1
+2697,19,Female,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Books,1141,1
+2698,68,Female,San Francisco,Gold,Computer,4.1,21/12/2023,17,Neutral,Clothing,3914,0
+2699,68,Female,Chicago,Bronze,Computer,4.7,13/12/2023,25,Satisfied,Electronics,472,0
+2700,68,Female,Los Angeles,Silver,Mobile Phone,3.1,14/12/2023,24,Neutral,Books,2837,0
+2701,59,Male,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,2250,0
+2702,70,Female,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,4936,0
+2703,70,Female,Chicago,Bronze,Computer,3.6,30/11/2023,38,Unsatisfied,Electronics,4981,0
+2704,70,Female,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Books,2930,0
+2705,69,Male,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Books,4966,0
+2706,45,Female,New York,Gold,Mobile Phone,4.5,2/12/2023,36,Satisfied,Electronics,4156,0
+2707,58,Male,Houston,Bronze,Mobile Phone,3.8,1/12/2023,37,Unsatisfied,Home,1755,0
+2708,58,Female,San Francisco,Gold,Mobile Phone,4.6,26/12/2023,12,Satisfied,Electronics,2847,0
+2709,58,Female,Chicago,Bronze,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Books,3302,0
+2710,58,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Home,2481,0
+2711,61,Male,Chicago,Bronze,Mobile Phone,4.1,22/12/2023,16,Neutral,Home,345,0
+2712,61,Male,San Francisco,Gold,Mobile Phone,3.3,26/11/2023,42,Unsatisfied,Electronics,5284,0
+2713,61,Male,Miami,Silver,Computer,3.9,22/11/2023,46,Unsatisfied,Books,2422,0
+2714,37,Male,Houston,Bronze,Computer,3.8,28/11/2023,40,Unsatisfied,Electronics,5167,0
+2715,37,Male,New York,Gold,Mobile Phone,3,12/12/2023,26,Neutral,Home,2229,0
+2716,37,Male,Miami,Silver,Mobile Phone,4.9,26/12/2023,12,Satisfied,Electronics,1205,0
+2717,37,Male,New York,Gold,Computer,4.1,14/11/2023,54,Unsatisfied,Home,3452,0
+2718,29,Male,Chicago,Bronze,Computer,3.6,26/11/2023,42,Unsatisfied,Books,2552,0
+2719,32,Male,San Francisco,Gold,Mobile Phone,3.3,24/11/2023,44,Unsatisfied,Clothing,3949,0
+2720,44,Male,Miami,Silver,Computer,4.9,28/12/2023,10,Satisfied,Electronics,3287,0
+2721,44,Male,Houston,Bronze,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Books,3869,0
+2722,43,Female,Los Angeles,Silver,Computer,4.5,17/12/2023,21,Satisfied,Books,5096,0
+2723,43,Female,Chicago,Bronze,Computer,4,24/12/2023,14,Neutral,Books,2295,0
+2724,61,Male,Miami,Silver,Computer,3.2,14/12/2023,24,Neutral,Electronics,808,0
+2725,61,Male,San Francisco,Gold,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,2143,0
+2726,28,Male,Miami,Silver,Mobile Phone,3.8,4/12/2023,34,Unsatisfied,Electronics,1918,0
+2727,28,Male,Houston,Bronze,Mobile Phone,3.1,18/12/2023,20,Neutral,Clothing,3497,0
+2728,35,Female,Miami,Silver,Computer,3.8,5/12/2023,33,Unsatisfied,Books,1919,0
+2729,35,Female,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,4158,0
+2730,58,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,4798,0
+2731,58,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Electronics,1943,0
+2732,61,Male,New York,Gold,Mobile Phone,4.2,24/12/2023,14,Neutral,Books,1210,0
+2733,61,Male,Miami,Silver,Mobile Phone,3.1,16/12/2023,22,Neutral,Electronics,409,0
+2734,61,Male,Houston,Bronze,Computer,4.5,10/12/2023,28,Satisfied,Home,4840,0
+2735,28,Male,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Books,4818,0
+2736,28,Male,Los Angeles,Silver,Computer,4.4,16/12/2023,22,Satisfied,Home,2629,0
+2737,69,Female,New York,Gold,Computer,3.1,19/12/2023,19,Neutral,Electronics,1648,0
+2738,66,Female,Los Angeles,Silver,Mobile Phone,4.5,11/12/2023,27,Satisfied,Books,2959,0
+2739,66,Female,Chicago,Bronze,Mobile Phone,4.2,20/12/2023,18,Neutral,Clothing,2076,0
+2740,18,Male,New York,Gold,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,4530,0
+2741,56,Female,San Francisco,Gold,Computer,4.8,26/12/2023,12,Satisfied,Home,683,0
+2742,56,Female,Miami,Silver,Computer,4,15/11/2023,53,Unsatisfied,Clothing,4576,0
+2743,54,Male,San Francisco,Gold,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Home,995,0
+2744,54,Male,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Clothing,1794,0
+2745,54,Male,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Books,3739,0
+2746,54,Male,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,2673,0
+2747,54,Male,Houston,Bronze,Computer,3.8,6/12/2023,32,Unsatisfied,Books,3693,0
+2748,67,Male,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,405,1
+2749,67,Male,San Francisco,Gold,Computer,3.3,29/11/2023,39,Unsatisfied,Clothing,1155,1
+2750,58,Female,San Francisco,Gold,Computer,4.6,27/12/2023,11,Satisfied,Home,1958,0
+2751,50,Male,Chicago,Bronze,Computer,4,15/11/2023,53,Unsatisfied,Electronics,1718,0
+2752,50,Male,San Francisco,Gold,Mobile Phone,3.1,17/12/2023,21,Neutral,Clothing,1278,0
+2753,38,Male,San Francisco,Gold,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,693,0
+2754,56,Female,Los Angeles,Silver,Mobile Phone,3.2,14/12/2023,24,Neutral,Home,3348,0
+2755,49,Female,Miami,Silver,Computer,3.8,6/12/2023,32,Unsatisfied,Home,2725,1
+2756,21,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,1190,0
+2757,21,Female,Miami,Silver,Computer,4.1,14/11/2023,54,Unsatisfied,Books,4583,0
+2758,38,Female,San Francisco,Gold,Computer,4.8,26/12/2023,12,Satisfied,Books,4764,0
+2759,38,Female,Miami,Silver,Computer,4,15/11/2023,53,Unsatisfied,Electronics,3011,0
+2760,38,Female,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,4958,0
+2761,38,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Home,3687,0
+2762,38,Female,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Electronics,1999,0
+2763,43,Male,San Francisco,Gold,Mobile Phone,4.9,27/12/2023,11,Satisfied,Clothing,4155,0
+2764,31,Female,Los Angeles,Silver,Mobile Phone,4.1,20/12/2023,18,Neutral,Electronics,937,0
+2765,31,Female,New York,Gold,Mobile Phone,4.6,13/12/2023,25,Satisfied,Home,2427,0
+2766,59,Female,New York,Gold,Computer,4.5,18/12/2023,20,Satisfied,Clothing,4731,1
+2767,59,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Books,3178,1
+2768,30,Male,Los Angeles,Silver,Computer,4.5,13/12/2023,25,Satisfied,Clothing,763,0
+2769,63,Male,Miami,Silver,Computer,3.8,2/12/2023,36,Unsatisfied,Electronics,1028,0
+2770,63,Male,San Francisco,Gold,Mobile Phone,4.9,27/12/2023,11,Satisfied,Clothing,2873,0
+2771,37,Female,Los Angeles,Silver,Computer,4.3,25/12/2023,13,Neutral,Electronics,1454,0
+2772,37,Female,New York,Gold,Mobile Phone,4.6,11/12/2023,27,Satisfied,Clothing,2199,0
+2773,37,Male,Miami,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Electronics,2265,1
+2774,37,Male,Houston,Bronze,Computer,4.6,11/12/2023,27,Satisfied,Books,1521,1
+2775,60,Male,Houston,Bronze,Mobile Phone,4.1,12/11/2023,56,Unsatisfied,Electronics,2658,0
+2776,60,Male,Miami,Silver,Mobile Phone,4.6,26/12/2023,12,Satisfied,Home,2279,0
+2777,30,Male,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Books,4499,0
+2778,29,Male,Houston,Bronze,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,2819,0
+2779,29,Male,Miami,Silver,Mobile Phone,3.6,21/11/2023,47,Unsatisfied,Clothing,1907,0
+2780,29,Male,New York,Gold,Mobile Phone,3.8,27/11/2023,41,Unsatisfied,Books,1035,0
+2781,59,Female,New York,Gold,Computer,4.7,19/12/2023,19,Satisfied,Home,4720,1
+2782,59,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Home,927,1
+2783,59,Female,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Books,5231,1
+2784,59,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,979,1
+2785,52,Male,San Francisco,Gold,Computer,3.3,29/11/2023,39,Unsatisfied,Clothing,995,0
+2786,30,Male,Miami,Silver,Mobile Phone,3,13/12/2023,25,Neutral,Books,2428,0
+2787,25,Male,Los Angeles,Silver,Mobile Phone,4.1,19/12/2023,19,Neutral,Electronics,3894,0
+2788,25,Male,New York,Gold,Mobile Phone,4.7,10/12/2023,28,Satisfied,Clothing,4845,0
+2789,25,Male,Chicago,Bronze,Mobile Phone,3.3,20/11/2023,48,Unsatisfied,Books,3045,0
+2790,25,Male,Houston,Bronze,Computer,3.1,10/12/2023,28,Neutral,Home,4044,0
+2791,25,Male,New York,Gold,Computer,3.2,14/12/2023,24,Neutral,Books,2903,1
+2792,25,Male,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,4090,1
+2793,25,Male,Chicago,Bronze,Computer,4.1,21/12/2023,17,Neutral,Electronics,4310,1
+2794,25,Male,Miami,Silver,Computer,4.7,28/12/2023,10,Satisfied,Clothing,1654,1
+2795,25,Male,Los Angeles,Silver,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,2103,1
+2796,28,Male,San Francisco,Gold,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Home,5053,0
+2797,37,Female,Miami,Silver,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,3374,0
+2798,37,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,206,0
+2799,37,Female,Chicago,Bronze,Computer,3.3,29/11/2023,39,Unsatisfied,Clothing,772,0
+2800,37,Female,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Clothing,2354,0
+2801,37,Female,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,3573,0
+2802,25,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Books,584,0
+2803,25,Female,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,3583,0
+2804,23,Male,Miami,Silver,Computer,4.9,27/12/2023,11,Satisfied,Home,4210,1
+2805,58,Male,Houston,Bronze,Mobile Phone,4.9,26/12/2023,12,Satisfied,Electronics,901,1
+2806,58,Female,Houston,Bronze,Computer,3,20/12/2023,18,Neutral,Books,3992,0
+2807,58,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,3378,0
+2808,50,Female,Los Angeles,Silver,Mobile Phone,3.4,6/12/2023,32,Neutral,Electronics,2515,0
+2809,30,Male,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,850,0
+2810,49,Male,Los Angeles,Silver,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,3037,0
+2811,49,Male,New York,Gold,Computer,4.5,12/12/2023,26,Satisfied,Electronics,4670,0
+2812,49,Male,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Books,1855,0
+2813,35,Female,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Home,3316,1
+2814,35,Female,Houston,Bronze,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,3972,1
+2815,35,Female,New York,Gold,Mobile Phone,3.1,17/12/2023,21,Neutral,Clothing,2607,1
+2816,50,Female,Miami,Silver,Mobile Phone,4.5,18/12/2023,20,Satisfied,Clothing,4951,0
+2817,50,Female,San Francisco,Gold,Computer,3.1,19/12/2023,19,Neutral,Home,1258,0
+2818,61,Female,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,1650,0
+2819,37,Female,Houston,Bronze,Mobile Phone,4.2,24/12/2023,14,Neutral,Clothing,2094,1
+2820,67,Female,Miami,Silver,Mobile Phone,3.1,17/12/2023,21,Neutral,Clothing,4528,0
+2821,57,Female,Chicago,Bronze,Mobile Phone,4.2,22/12/2023,16,Neutral,Home,4731,0
+2822,51,Male,Miami,Silver,Mobile Phone,3.3,20/11/2023,48,Unsatisfied,Electronics,1111,0
+2823,19,Male,Houston,Bronze,Computer,4.9,29/12/2023,9,Satisfied,Books,282,0
+2824,56,Male,Houston,Bronze,Mobile Phone,4.9,28/12/2023,10,Satisfied,Books,578,0
+2825,69,Male,Houston,Bronze,Computer,4.5,12/12/2023,26,Satisfied,Clothing,3645,0
+2826,69,Male,Miami,Silver,Computer,3.1,17/12/2023,21,Neutral,Home,5328,0
+2827,69,Male,New York,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Home,460,0
+2828,29,Male,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Clothing,2297,0
+2829,29,Male,Miami,Silver,Mobile Phone,4.1,11/11/2023,57,Unsatisfied,Home,651,0
+2830,29,Male,Houston,Bronze,Mobile Phone,3.4,14/12/2023,24,Neutral,Books,996,0
+2831,29,Male,New York,Gold,Mobile Phone,4.5,8/12/2023,30,Satisfied,Books,787,0
+2832,68,Female,Miami,Silver,Mobile Phone,4.1,12/11/2023,56,Unsatisfied,Electronics,1231,0
+2833,57,Male,New York,Gold,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,2774,0
+2834,57,Male,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Unsatisfied,Clothing,3932,0
+2835,41,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Home,4732,0
+2836,41,Female,Los Angeles,Silver,Mobile Phone,4.3,24/12/2023,14,Neutral,Home,1308,1
+2837,41,Female,Chicago,Bronze,Computer,3.6,28/11/2023,40,Unsatisfied,Clothing,545,1
+2838,55,Male,San Francisco,Gold,Mobile Phone,4.8,26/12/2023,12,Satisfied,Books,1409,0
+2839,69,Female,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Books,1268,0
+2840,69,Female,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Home,4185,0
+2841,60,Female,Miami,Silver,Computer,3.9,21/11/2023,47,Unsatisfied,Electronics,2010,0
+2842,45,Male,San Francisco,Gold,Computer,4.3,25/12/2023,13,Neutral,Electronics,4944,0
+2843,69,Female,Chicago,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,3957,1
+2844,69,Female,San Francisco,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,3419,1
+2845,69,Female,Miami,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,456,1
+2846,46,Female,Chicago,Bronze,Mobile Phone,3.3,28/11/2023,40,Unsatisfied,Books,4539,0
+2847,32,Male,Chicago,Bronze,Mobile Phone,4.7,10/12/2023,28,Satisfied,Home,2801,0
+2848,32,Male,New York,Gold,Mobile Phone,3.8,27/11/2023,41,Unsatisfied,Electronics,3824,0
+2849,32,Male,Los Angeles,Silver,Mobile Phone,3.1,10/12/2023,28,Neutral,Home,1469,0
+2850,40,Female,Los Angeles,Silver,Mobile Phone,4.8,20/12/2023,18,Satisfied,Electronics,2392,0
+2851,21,Female,New York,Gold,Computer,3.2,14/12/2023,24,Neutral,Books,3511,1
+2852,21,Female,Houston,Bronze,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Home,1051,1
+2853,39,Male,San Francisco,Gold,Mobile Phone,4.1,18/12/2023,20,Neutral,Electronics,1592,0
+2854,60,Female,Los Angeles,Silver,Mobile Phone,4.7,19/12/2023,19,Satisfied,Electronics,2304,0
+2855,60,Male,Houston,Bronze,Mobile Phone,3.8,29/11/2023,39,Unsatisfied,Books,3961,0
+2856,34,Female,New York,Gold,Mobile Phone,4.5,18/12/2023,20,Satisfied,Home,5116,0
+2857,34,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Clothing,2974,0
+2858,41,Female,San Francisco,Gold,Mobile Phone,3.3,20/11/2023,48,Unsatisfied,Home,3914,0
+2859,60,Female,Miami,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,452,0
+2860,40,Female,Miami,Silver,Mobile Phone,3.6,23/11/2023,45,Unsatisfied,Clothing,4760,0
+2861,40,Female,Houston,Bronze,Mobile Phone,4.9,27/12/2023,11,Satisfied,Clothing,3377,0
+2862,62,Female,Los Angeles,Silver,Computer,4,23/12/2023,15,Neutral,Home,5126,0
+2863,62,Female,New York,Gold,Mobile Phone,4.7,19/12/2023,19,Satisfied,Clothing,3765,0
+2864,62,Female,Chicago,Bronze,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Books,3685,0
+2865,21,Male,Chicago,Bronze,Computer,3.5,3/12/2023,35,Unsatisfied,Clothing,4807,0
+2866,21,Male,Los Angeles,Silver,Mobile Phone,4.2,22/12/2023,16,Neutral,Home,1450,0
+2867,21,Male,San Francisco,Gold,Computer,4.7,29/12/2023,9,Satisfied,Electronics,3273,0
+2868,28,Female,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Books,1716,0
+2869,43,Female,New York,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Home,1199,0
+2870,41,Male,San Francisco,Gold,Computer,4.6,27/12/2023,11,Satisfied,Electronics,3521,0
+2871,41,Male,Los Angeles,Silver,Mobile Phone,4.1,21/12/2023,17,Neutral,Electronics,3289,0
+2872,49,Male,Chicago,Bronze,Computer,3.3,28/11/2023,40,Unsatisfied,Books,1820,0
+2873,49,Male,Los Angeles,Silver,Computer,4.1,21/12/2023,17,Neutral,Clothing,3137,0
+2874,50,Male,Houston,Bronze,Mobile Phone,3.4,9/12/2023,29,Neutral,Books,3621,0
+2875,61,Female,Los Angeles,Silver,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Home,4443,0
+2876,61,Female,Chicago,Bronze,Mobile Phone,4.7,28/12/2023,10,Satisfied,Home,383,0
+2877,39,Female,Houston,Bronze,Computer,4.1,8/11/2023,60,Unsatisfied,Electronics,3031,0
+2878,39,Female,Chicago,Bronze,Mobile Phone,4.1,20/12/2023,18,Neutral,Books,2941,0
+2879,39,Female,Miami,Silver,Computer,4.6,25/12/2023,13,Satisfied,Home,3725,0
+2880,39,Female,San Francisco,Gold,Mobile Phone,3.3,23/11/2023,45,Unsatisfied,Home,3751,0
+2881,56,Female,New York,Gold,Computer,3.1,14/12/2023,24,Neutral,Books,4528,0
+2882,56,Female,Miami,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,1390,0
+2883,56,Female,Houston,Bronze,Mobile Phone,3.8,29/11/2023,39,Unsatisfied,Books,2917,0
+2884,54,Male,New York,Gold,Mobile Phone,3.1,14/12/2023,24,Neutral,Electronics,5070,0
+2885,42,Female,Los Angeles,Silver,Computer,4.2,20/12/2023,18,Neutral,Home,4757,0
+2886,33,Male,Miami,Silver,Mobile Phone,3,20/12/2023,18,Neutral,Electronics,1651,0
+2887,33,Male,Houston,Bronze,Mobile Phone,4.7,19/12/2023,19,Satisfied,Home,4996,0
+2888,54,Male,Houston,Bronze,Mobile Phone,3.4,11/12/2023,27,Neutral,Home,4154,0
+2889,54,Male,New York,Gold,Mobile Phone,4.5,7/12/2023,31,Satisfied,Home,561,0
+2890,30,Male,Houston,Bronze,Mobile Phone,4.3,25/12/2023,13,Neutral,Clothing,4861,1
+2891,38,Male,San Francisco,Gold,Computer,4.9,29/12/2023,9,Satisfied,Books,4046,1
+2892,44,Female,Los Angeles,Silver,Mobile Phone,4.5,13/12/2023,25,Satisfied,Electronics,3567,0
+2893,44,Female,Houston,Bronze,Mobile Phone,3.8,30/11/2023,38,Unsatisfied,Home,2571,0
+2894,44,Female,New York,Gold,Computer,3,16/12/2023,22,Neutral,Electronics,2761,0
+2895,20,Female,Chicago,Bronze,Mobile Phone,3.5,1/12/2023,37,Unsatisfied,Clothing,1908,0
+2896,20,Female,Los Angeles,Silver,Mobile Phone,4.2,24/12/2023,14,Satisfied,Home,5037,0
+2897,52,Male,Chicago,Bronze,Computer,3.6,29/11/2023,39,Unsatisfied,Clothing,1452,0
+2898,52,Male,Miami,Silver,Computer,3.8,5/12/2023,33,Unsatisfied,Clothing,3434,0
+2899,52,Male,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Books,3925,0
+2900,41,Male,New York,Gold,Mobile Phone,3.1,17/12/2023,21,Neutral,Books,1958,0
+2901,41,Male,Chicago,Bronze,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,1578,0
+2902,41,Male,Los Angeles,Silver,Mobile Phone,4.5,12/12/2023,26,Satisfied,Books,5057,0
+2903,38,Male,San Francisco,Gold,Computer,4,23/12/2023,15,Neutral,Home,291,0
+2904,46,Female,Chicago,Bronze,Computer,3.3,29/11/2023,39,Unsatisfied,Home,1270,0
+2905,32,Male,Los Angeles,Silver,Computer,4.3,24/12/2023,14,Neutral,Home,2142,0
+2906,26,Female,Houston,Bronze,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,2336,0
+2907,54,Female,Los Angeles,Silver,Computer,3.2,14/12/2023,24,Neutral,Home,3883,0
+2908,54,Female,Chicago,Bronze,Mobile Phone,4.4,16/12/2023,22,Satisfied,Books,1134,0
+2909,54,Female,New York,Gold,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Electronics,3779,0
+2910,43,Female,San Francisco,Gold,Computer,3.3,19/11/2023,49,Unsatisfied,Clothing,1174,0
+2911,51,Male,New York,Gold,Computer,4.5,12/12/2023,26,Satisfied,Books,2246,0
+2912,51,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Electronics,937,0
+2913,51,Male,Houston,Bronze,Computer,3.1,17/12/2023,21,Unsatisfied,Home,1970,0
+2914,58,Male,Los Angeles,Silver,Mobile Phone,4.1,22/12/2023,16,Neutral,Home,1954,0
+2915,58,Male,Chicago,Bronze,Mobile Phone,3.3,26/11/2023,42,Unsatisfied,Electronics,2049,0
+2916,58,Male,San Francisco,Gold,Mobile Phone,4.8,25/12/2023,13,Satisfied,Home,1108,0
+2917,51,Female,Chicago,Bronze,Computer,3.6,30/11/2023,38,Unsatisfied,Clothing,4133,1
+2918,23,Male,New York,Gold,Mobile Phone,3.1,17/12/2023,21,Neutral,Electronics,3289,0
+2919,23,Male,Los Angeles,Silver,Mobile Phone,4.7,16/12/2023,22,Satisfied,Clothing,542,0
+2920,23,Male,Houston,Bronze,Mobile Phone,3.8,3/12/2023,35,Unsatisfied,Clothing,2549,0
+2921,45,Male,Los Angeles,Silver,Mobile Phone,4.1,22/12/2023,16,Neutral,Electronics,4667,0
+2922,45,Male,New York,Gold,Computer,4.7,14/12/2023,24,Satisfied,Home,2537,0
+2923,42,Female,New York,Gold,Computer,4.5,12/12/2023,26,Satisfied,Home,4807,0
+2924,50,Female,Chicago,Bronze,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Books,3134,0
+2925,19,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Electronics,5039,1
+2926,18,Female,Miami,Silver,Mobile Phone,4.8,25/12/2023,13,Satisfied,Clothing,365,0
+2927,18,Female,Houston,Bronze,Mobile Phone,4.1,14/11/2023,54,Unsatisfied,Clothing,3593,0
+2928,18,Female,New York,Gold,Computer,3.4,15/12/2023,23,Neutral,Books,2002,0
+2929,61,Female,Los Angeles,Silver,Computer,4.7,19/12/2023,19,Satisfied,Books,3040,0
+2930,66,Male,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Clothing,3842,0
+2931,28,Male,San Francisco,Gold,Mobile Phone,4.1,19/12/2023,19,Neutral,Electronics,3375,0
+2932,34,Female,San Francisco,Gold,Mobile Phone,3.3,30/11/2023,38,Unsatisfied,Home,1068,0
+2933,34,Female,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,3146,0
+2934,24,Male,San Francisco,Gold,Computer,4.8,25/12/2023,13,Satisfied,Electronics,1239,0
+2935,22,Female,San Francisco,Gold,Computer,3.2,18/12/2023,20,Neutral,Electronics,1674,1
+2936,40,Male,Miami,Silver,Mobile Phone,3.6,30/11/2023,38,Unsatisfied,Clothing,1930,0
+2937,40,Male,San Francisco,Gold,Mobile Phone,4.3,26/12/2023,12,Neutral,Clothing,4307,0
+2938,50,Female,New York,Gold,Mobile Phone,4,22/12/2023,16,Neutral,Home,3006,0
+2939,27,Female,Miami,Silver,Computer,4,13/11/2023,55,Unsatisfied,Home,4025,0
+2940,25,Male,Los Angeles,Silver,Mobile Phone,4,23/12/2023,15,Neutral,Clothing,4676,0
+2941,54,Female,San Francisco,Gold,Computer,3.6,28/11/2023,40,Unsatisfied,Clothing,771,0
+2942,70,Male,Houston,Bronze,Computer,3.1,17/12/2023,21,Neutral,Clothing,4561,1
+2943,37,Female,Chicago,Bronze,Computer,4.5,13/12/2023,25,Satisfied,Electronics,2673,1
+2944,65,Female,Chicago,Bronze,Computer,3.6,30/11/2023,38,Unsatisfied,Books,2025,0
+2945,65,Female,San Francisco,Gold,Mobile Phone,4.9,29/12/2023,9,Satisfied,Electronics,915,0
+2946,65,Female,Miami,Silver,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Home,4947,0
+2947,65,Female,Houston,Bronze,Mobile Phone,3,20/12/2023,18,Neutral,Clothing,567,0
+2948,62,Female,San Francisco,Gold,Computer,4.9,28/12/2023,10,Satisfied,Books,4709,0
+2949,30,Female,Los Angeles,Silver,Mobile Phone,4.1,22/12/2023,16,Neutral,Electronics,4062,0
+2950,37,Female,Houston,Bronze,Mobile Phone,3,13/12/2023,25,Neutral,Electronics,4961,1
+2951,37,Female,Miami,Silver,Computer,3.7,20/11/2023,48,Unsatisfied,Electronics,4291,1
+2952,68,Female,New York,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Clothing,2994,0
+2953,68,Female,Los Angeles,Silver,Computer,3.4,15/12/2023,23,Neutral,Clothing,3935,0
+2954,33,Female,Houston,Bronze,Mobile Phone,3.8,6/12/2023,32,Unsatisfied,Clothing,1828,0
+2955,33,Female,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Home,636,0
+2956,40,Female,Chicago,Bronze,Computer,4.1,20/12/2023,18,Neutral,Clothing,3703,1
+2957,44,Male,Miami,Silver,Mobile Phone,4.8,26/12/2023,12,Satisfied,Electronics,1905,0
+2958,44,Male,Houston,Bronze,Mobile Phone,4,15/11/2023,53,Unsatisfied,Books,1929,0
+2959,44,Male,New York,Gold,Mobile Phone,3.4,15/12/2023,23,Neutral,Clothing,3389,0
+2960,38,Male,Chicago,Bronze,Mobile Phone,4.8,26/12/2023,12,Satisfied,Electronics,5061,1
+2961,38,Male,Los Angeles,Silver,Computer,3.3,28/11/2023,40,Unsatisfied,Home,1505,1
+2962,20,Female,Los Angeles,Silver,Mobile Phone,4.6,11/12/2023,27,Satisfied,Home,3032,0
+2963,35,Male,Chicago,Bronze,Computer,4.5,12/12/2023,26,Satisfied,Electronics,5016,1
+2964,23,Male,San Francisco,Gold,Mobile Phone,3.3,29/11/2023,39,Unsatisfied,Electronics,4885,0
+2965,70,Female,Chicago,Bronze,Mobile Phone,4.8,26/12/2023,12,Satisfied,Home,800,1
+2966,44,Male,Miami,Silver,Computer,4.9,28/12/2023,10,Satisfied,Books,5142,1
+2967,44,Male,Houston,Bronze,Computer,3.8,5/12/2023,33,Unsatisfied,Clothing,4213,1
+2968,64,Male,New York,Gold,Computer,3.8,26/11/2023,42,Unsatisfied,Clothing,2553,0
+2969,64,Male,San Francisco,Gold,Mobile Phone,4.2,17/12/2023,21,Neutral,Electronics,4103,0
+2970,64,Male,Houston,Bronze,Mobile Phone,4.9,25/12/2023,13,Satisfied,Clothing,817,0
+2971,64,Male,Chicago,Bronze,Mobile Phone,4.5,10/12/2023,28,Satisfied,Electronics,2996,0
+2972,64,Male,Los Angeles,Silver,Computer,3,11/12/2023,27,Neutral,Clothing,462,0
+2973,35,Female,Houston,Bronze,Mobile Phone,3.1,17/12/2023,21,Neutral,Books,2700,0
+2974,67,Female,Miami,Silver,Computer,4.9,28/12/2023,10,Satisfied,Home,4343,0
+2975,29,Male,New York,Gold,Mobile Phone,3.8,29/11/2023,39,Unsatisfied,Clothing,1757,0
+2976,63,Male,Los Angeles,Silver,Mobile Phone,4.2,17/12/2023,21,Neutral,Electronics,4684,1
+2977,63,Male,Chicago,Bronze,Mobile Phone,3.3,19/11/2023,49,Unsatisfied,Electronics,729,1
+2978,63,Male,New York,Gold,Mobile Phone,4.5,10/12/2023,28,Satisfied,Home,1487,1
+2979,67,Female,Miami,Silver,Computer,4.9,29/12/2023,9,Satisfied,Books,3808,0
+2980,49,Male,Los Angeles,Silver,Mobile Phone,4.9,29/12/2023,9,Satisfied,Books,3631,0
+2981,49,Male,Chicago,Bronze,Computer,3.8,6/12/2023,32,Unsatisfied,Electronics,2186,0
+2982,49,Male,San Francisco,Gold,Mobile Phone,3,20/12/2023,18,Neutral,Books,3912,0
+2983,38,Male,San Francisco,Gold,Mobile Phone,4.6,26/12/2023,12,Satisfied,Home,3275,0
+2984,38,Male,Chicago,Bronze,Mobile Phone,3.3,27/11/2023,41,Unsatisfied,Home,4462,0
+2985,42,Male,Los Angeles,Silver,Mobile Phone,4.3,26/12/2023,12,Neutral,Books,3560,0
+2986,23,Male,Houston,Bronze,Mobile Phone,3.1,19/12/2023,19,Neutral,Home,4699,0
+2987,23,Male,Miami,Silver,Mobile Phone,3.8,5/12/2023,33,Unsatisfied,Electronics,2279,0
+2988,23,Male,San Francisco,Gold,Mobile Phone,4.9,28/12/2023,10,Satisfied,Clothing,2854,0
+2989,32,Male,Miami,Silver,Mobile Phone,4.9,27/12/2023,11,Satisfied,Home,635,0
+2990,40,Female,Los Angeles,Silver,Mobile Phone,4.9,28/12/2023,10,Satisfied,Home,3444,0
+2991,40,Female,New York,Gold,Mobile Phone,3.6,29/11/2023,39,Unsatisfied,Home,4528,0
+2992,43,Female,New York,Gold,Mobile Phone,3.2,13/12/2023,25,Neutral,Books,1695,0
+2993,43,Female,Houston,Bronze,Mobile Phone,3.9,22/11/2023,46,Unsatisfied,Electronics,2535,0
+2994,48,Male,Chicago,Bronze,Mobile Phone,4.8,25/12/2023,13,Satisfied,Electronics,4872,0
+2995,18,Male,Los Angeles,Silver,Mobile Phone,3.4,15/12/2023,23,Neutral,Home,2215,0
+2996,18,Male,Chicago,Bronze,Mobile Phone,4.5,12/12/2023,26,Satisfied,Electronics,3004,0
+2997,22,Male,San Francisco,Gold,Mobile Phone,4,15/11/2023,53,Unsatisfied,Books,1552,0
+2998,22,Male,Miami,Silver,Computer,3.1,17/12/2023,21,Neutral,Home,4205,0
+2999,52,Female,Miami,Silver,Mobile Phone,3.9,21/11/2023,47,Unsatisfied,Clothing,1105,0
+3000,52,Female,San Francisco,Gold,Mobile Phone,4.7,28/12/2023,10,Satisfied,Clothing,4137,0
