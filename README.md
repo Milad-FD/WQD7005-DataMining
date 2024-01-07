@@ -5,8 +5,8 @@
 # Objective:
 This case study is designed to assess the application of decision tree and ensemble methods in analyzing customer transaction data from an e-commerce website. Students are expected to demonstrate their understanding of these methods and their ability to derive meaningful business insights through data analysis.
 
-•	Practical Application: Demonstrate the practical use of decision tree and ensemble methods in analyzing customer data.
-•	Business Insights: Show how data analysis can translate into actionable business strategies.
+- Practical Application: Demonstrate the practical use of decision tree and ensemble methods in analyzing customer data.
+- Business Insights: Show how data analysis can translate into actionable business strategies.
 
 # Overview:
 Students will work with a dataset comprising customer attributes and their purchase history over the last year. The primary goal is to understand customer behavior and identify patterns that can lead to increased sales and customer retention.
